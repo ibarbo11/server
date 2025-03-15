@@ -2948,3 +2948,12 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [15Mar2025 16:30:19.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [15Mar2025 16:30:19.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
 [15Mar2025 16:34:38.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[15Mar2025 16:38:31.370] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[15Mar2025 16:38:31.373] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[15Mar2025 16:38:31.382] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[15Mar2025 16:38:31.398] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[15Mar2025 16:38:31.401] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[15Mar2025 16:38:31.409] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[15Mar2025 16:38:31.410] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: myser444[/127.148.57.27:54665] logged in with entity id 8117 at (-1462.0968930640154, 130.125, -2333.9602216136586)
+[15Mar2025 16:38:31.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 joined the game
+[15Mar2025 16:38:31.534] [Server thread/INFO] [Jade/]: Syncing config to myser444 (bf99e74b-a15b-39e5-b20b-a65e6dee0df2)
