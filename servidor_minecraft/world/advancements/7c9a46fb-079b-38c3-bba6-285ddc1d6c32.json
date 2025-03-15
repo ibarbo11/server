@@ -803,8 +803,13 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-14 15:07:47 +0000",
       "minecraft:spider": "2025-03-14 16:02:17 +0000",
+      "minecraft:creeper": "2025-03-15 00:51:28 +0000",
       "quark:forgotten": "2025-03-14 16:57:39 +0000",
+      "minecraft:witch": "2025-03-15 00:59:49 +0000",
+      "minecraft:husk": "2025-03-15 01:02:05 +0000",
       "minecraft:cave_spider": "2025-03-15 00:48:13 +0000",
+      "minecraft:enderman": "2025-03-15 00:53:41 +0000",
+      "minecraft:silverfish": "2025-03-15 01:08:33 +0000",
       "minecraft:zombie": "2025-03-14 16:36:31 +0000"
     },
     "done": false
@@ -1049,9 +1054,33 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/amethyst_block_slab": {
+    "criteria": {
+      "has_amethyst_block": "2025-03-15 01:04:11 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/infested_stone_slab": {
+    "criteria": {
+      "has_infested_stone": "2025-03-15 00:59:41 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2025-03-15 00:47:54 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-03-15 01:09:44 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/calcite_slab": {
+    "criteria": {
+      "has_calcite": "2025-03-15 01:04:08 +0000"
     },
     "done": true
   },
@@ -1067,9 +1096,39 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-03-15 01:01:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-03-15 00:59:49 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2025-03-15 00:47:32 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/smooth_basalt_slab": {
+    "criteria": {
+      "has_smooth_basalt": "2025-03-15 01:04:02 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2025-03-15 01:00:50 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/polished_calcite": {
+    "criteria": {
+      "has_item": "2025-03-15 01:04:08 +0000"
     },
     "done": true
   },

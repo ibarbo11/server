@@ -2966,3 +2966,18 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [15Mar2025 00:46:45.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
 [15Mar2025 00:47:32.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has reached the goal [Bone Crusher]
 [15Mar2025 00:47:54.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Knowledge raises the soul]
+[15Mar2025 00:56:46.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[15Mar2025 00:56:57.248] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10553ms or 211 ticks behind
+[15Mar2025 00:56:57.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 moved too quickly! 6.871851430226911,3.0,6.8443179016644535
+[15Mar2025 00:56:57.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[15Mar2025 00:59:00.285] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2090ms or 41 ticks behind
+[15Mar2025 00:59:27.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12502ms or 250 ticks behind
+[15Mar2025 00:59:49.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Ambush]
+[15Mar2025 00:59:53.211] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10466ms or 209 ticks behind
+[15Mar2025 01:00:50.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Far From Perfect]
+[15Mar2025 01:01:01.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Penteconter]
+[15Mar2025 01:08:24.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the weather to clear]
+[15Mar2025 01:08:32.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[15Mar2025 01:09:44.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Alex's Caves]
+[15Mar2025 01:10:56.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[15Mar2025 01:10:56.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aa<--[HERE]
