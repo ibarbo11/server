@@ -3000,3 +3000,5 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [15Mar2025 01:46:16.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
 [15Mar2025 01:49:33.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [15Mar2025 01:49:33.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[15Mar2025 01:53:02.610] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carloselpillo lost connection: Disconnected
+[15Mar2025 01:53:02.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo left the game
