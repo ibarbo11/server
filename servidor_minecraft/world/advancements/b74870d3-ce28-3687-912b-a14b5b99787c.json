@@ -988,6 +988,12 @@
     },
     "done": true
   },
+  "vinery:main/wild_harvest": {
+    "criteria": {
+      "white_taiga_grape_seeds": "2025-03-15 16:56:30 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/stripped_oak_log_slab": {
     "criteria": {
       "has_stripped_oak_log": "2025-03-15 16:14:09 +0000"
