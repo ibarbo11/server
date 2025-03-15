@@ -982,5 +982,11 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/stripped_oak_log_slab": {
+    "criteria": {
+      "has_stripped_oak_log": "2025-03-15 16:14:09 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
