@@ -2989,3 +2989,14 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [15Mar2025 01:24:01.360] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/2591, l='ServerLevel[world]', x=302.50, y=130.00, z=-591.58] died, message: 'Weaponsmith was slain by Zombie Villager'
 [15Mar2025 01:33:29.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
 [15Mar2025 01:34:19.293] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Chase the Hungry'/40834, l='ServerLevel[world]', x=-1059.74, y=-51.00, z=-2605.27] died: Chase the Hungry was slain by joselete123
+[15Mar2025 01:43:10.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the weather to clear]
+[15Mar2025 01:43:13.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[15Mar2025 01:45:35.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has reached the goal [Strong or Careful]
+[15Mar2025 01:45:35.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 was slain by Zombie Brute
+[15Mar2025 01:45:35.821] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[15Mar2025 01:46:07.634] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 lost connection: Disconnected
+[15Mar2025 01:46:07.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 left the game
+[15Mar2025 01:46:16.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[15Mar2025 01:46:16.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[15Mar2025 01:49:33.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[15Mar2025 01:49:33.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
