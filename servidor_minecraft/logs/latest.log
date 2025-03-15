@@ -2983,3 +2983,9 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [15Mar2025 01:10:56.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aa<--[HERE]
 [15Mar2025 01:15:39.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Enchanter]
 [15Mar2025 01:15:39.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [The Basics]
+[15Mar2025 01:23:26.015] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/2589, l='ServerLevel[world]', x=302.50, y=130.00, z=-589.46] died, message: 'Weaponsmith was slain by Zombie Brute'
+[15Mar2025 01:23:29.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[15Mar2025 01:23:59.061] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/2590, l='ServerLevel[world]', x=300.36, y=130.00, z=-590.94] died, message: 'Toolsmith was slain by Zombie Brute'
+[15Mar2025 01:24:01.360] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/2591, l='ServerLevel[world]', x=302.50, y=130.00, z=-591.58] died, message: 'Weaponsmith was slain by Zombie Villager'
+[15Mar2025 01:33:29.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[15Mar2025 01:34:19.293] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Chase the Hungry'/40834, l='ServerLevel[world]', x=-1059.74, y=-51.00, z=-2605.27] died: Chase the Hungry was slain by joselete123
