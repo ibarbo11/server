@@ -1054,148 +1054,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-15 01:45:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-15 01:45:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-15 01:45:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-03-15 01:45:23 +0000",
-      "log_spam_fixer": "2025-03-15 01:45:10 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-15 01:45:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-15 01:45:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-15 01:45:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-15 01:45:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-15 01:45:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-15 01:45:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-15 01:45:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-15 01:45:10 +0000"
-    },
-    "done": false
-  },
-  "new_slab_variants:recipes/building_blocks/amethyst_block_slab": {
-    "criteria": {
-      "has_amethyst_block": "2025-03-15 01:04:11 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/infested_stone_slab": {
-    "criteria": {
-      "has_infested_stone": "2025-03-15 00:59:41 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:enchanting/30ench": {
-    "criteria": {
-      "enchanted_item": "2025-03-15 01:15:39 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/choose_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-03-15 00:47:54 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/root": {
-    "criteria": {
-      "underground_cabin": "2025-03-15 01:09:44 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/calcite_slab": {
-    "criteria": {
-      "has_calcite": "2025-03-15 01:04:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-03-15 01:15:39 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/infested_cobblestone_slab": {
-    "criteria": {
-      "has_infested_cobblestone": "2025-03-15 00:48:30 +0000"
-    },
-    "done": true
-  },
   "additionaladditions:obtain_glow_stick": {
     "criteria": {
       "obtain": "2025-03-15 00:45:22 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/bone_block_slab": {
-    "criteria": {
-      "has_bone_block": "2025-03-15 01:33:44 +0000"
-    },
-    "done": true
-  },
-  "lootr:50loot": {
-    "criteria": {
-      "loot_stat": "2025-03-15 01:01:01 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2025-03-15 00:59:49 +0000"
     },
     "done": true
   },
@@ -1205,9 +1066,27 @@
     },
     "done": true
   },
-  "new_slab_variants:recipes/building_blocks/smooth_basalt_slab": {
+  "tombstone:adventure/choose_knowledge": {
     "criteria": {
-      "has_smooth_basalt": "2025-03-15 01:04:02 +0000"
+      "coded_trigger": "2025-03-15 00:47:54 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/infested_cobblestone_slab": {
+    "criteria": {
+      "has_infested_cobblestone": "2025-03-15 00:48:30 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/infested_stone_slab": {
+    "criteria": {
+      "has_infested_stone": "2025-03-15 00:59:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-03-15 00:59:49 +0000"
     },
     "done": true
   },
@@ -1217,15 +1096,81 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-03-15 01:01:01 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/smooth_basalt_slab": {
+    "criteria": {
+      "has_smooth_basalt": "2025-03-15 01:04:02 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/calcite_slab": {
+    "criteria": {
+      "has_calcite": "2025-03-15 01:04:08 +0000"
+    },
+    "done": true
+  },
   "hearth_and_home:recipes/polished_calcite": {
     "criteria": {
       "has_item": "2025-03-15 01:04:08 +0000"
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/amethyst_block_slab": {
+    "criteria": {
+      "has_amethyst_block": "2025-03-15 01:04:11 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-03-15 01:09:44 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2025-03-15 01:15:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-03-15 01:15:39 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/bone_block_slab": {
+    "criteria": {
+      "has_bone_block": "2025-03-15 01:33:44 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2025-03-15 01:45:35 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-03-15 17:13:22 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/graffiti": {
+    "criteria": {
+      "has_item": "2025-03-15 17:08:06 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/snow_block_slab": {
+    "criteria": {
+      "has_snow_block": "2025-03-15 17:12:43 +0000"
     },
     "done": true
   },

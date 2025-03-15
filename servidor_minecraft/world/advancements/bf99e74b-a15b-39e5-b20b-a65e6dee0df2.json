@@ -466,6 +466,7 @@
       "wythers:boreal_forest_yellow": "2025-03-14 21:03:46 +0000",
       "wythers:marsh": "2025-03-14 16:17:18 +0000",
       "wythers:thermal_taiga": "2025-03-14 16:27:32 +0000",
+      "wythers:boreal_forest_red": "2025-03-15 17:10:11 +0000",
       "wythers:cold_plains": "2025-03-14 16:02:32 +0000",
       "wythers:berry_bog": "2025-03-14 15:43:26 +0000",
       "wythers:underground": "2025-03-14 16:06:35 +0000",
@@ -886,6 +887,12 @@
   "new_slab_variants:recipes/building_blocks/stripped_oak_log_slab": {
     "criteria": {
       "has_stripped_oak_log": "2025-03-14 21:08:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2025-03-15 17:19:48 +0000"
     },
     "done": true
   },

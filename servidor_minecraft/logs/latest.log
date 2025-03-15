@@ -2972,3 +2972,71 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [15Mar2025 17:00:55.479] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
 [15Mar2025 17:00:55.679] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
 [15Mar2025 17:04:42.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[15Mar2025 17:05:35.584] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[15Mar2025 17:05:35.586] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[15Mar2025 17:05:35.592] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[15Mar2025 17:05:35.604] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[15Mar2025 17:05:35.606] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[15Mar2025 17:05:35.613] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[15Mar2025 17:05:35.613] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joselete123[/127.42.18.165:37053] logged in with entity id 20705 at (-1478.6098257487122, 121.0, -2245.4000192495537)
+[15Mar2025 17:05:35.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 joined the game
+[15Mar2025 17:05:35.752] [Server thread/INFO] [Jade/]: Syncing config to joselete123 (7c9a46fb-079b-38c3-bba6-285ddc1d6c32)
+[15Mar2025 17:07:15.027] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[15Mar2025 17:07:16.123] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[15Mar2025 17:07:28.827] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[15Mar2025 17:07:28.975] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[15Mar2025 17:07:29.075] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[15Mar2025 17:07:29.232] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[15Mar2025 17:07:29.378] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[15Mar2025 17:07:29.526] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[15Mar2025 17:07:29.678] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[15Mar2025 17:07:29.831] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[15Mar2025 17:10:42.831] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[15Mar2025 17:11:34.078] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[15Mar2025 17:11:34.330] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[15Mar2025 17:11:35.324] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[15Mar2025 17:11:35.577] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[15Mar2025 17:11:37.371] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[15Mar2025 17:11:37.634] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[15Mar2025 17:11:38.977] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[15Mar2025 17:11:39.177] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[15Mar2025 17:11:39.577] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[15Mar2025 17:11:39.877] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[15Mar2025 17:11:40.205] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[15Mar2025 17:11:40.364] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[15Mar2025 17:11:40.826] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[15Mar2025 17:11:41.050] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[15Mar2025 17:11:55.936] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1472, y=125, z=-2244} BlockPos{x=-1473, y=126, z=-2241}
+[15Mar2025 17:11:55.985] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1472, y=125, z=-2244} BlockPos{x=-1473, y=126, z=-2241}
+[15Mar2025 17:11:56.031] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1472, y=125, z=-2244} BlockPos{x=-1473, y=126, z=-2241}
+[15Mar2025 17:11:56.382] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1474, y=126, z=-2240} BlockPos{x=-1473, y=125, z=-2242}
+[15Mar2025 17:11:56.430] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1474, y=126, z=-2240} BlockPos{x=-1475, y=126, z=-2240}
+[15Mar2025 17:11:56.432] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1474, y=126, z=-2240} BlockPos{x=-1475, y=126, z=-2240}
+[15Mar2025 17:11:56.515] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1474, y=126, z=-2240} BlockPos{x=-1475, y=126, z=-2240}
+[15Mar2025 17:11:56.566] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1474, y=126, z=-2240} BlockPos{x=-1475, y=126, z=-2240}
+[15Mar2025 17:11:58.726] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1480, y=126, z=-2237} BlockPos{x=-1478, y=125, z=-2237}
+[15Mar2025 17:11:58.729] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1480, y=126, z=-2237} BlockPos{x=-1480, y=126, z=-2236}
+[15Mar2025 17:11:59.629] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1482, y=126, z=-2235} BlockPos{x=-1482, y=125, z=-2241}
+[15Mar2025 17:12:01.170] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1480, y=126, z=-2240} BlockPos{x=-1481, y=125, z=-2239}
+[15Mar2025 17:12:13.631] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1484, y=126, z=-2246} BlockPos{x=-1483, y=125, z=-2243}
+[15Mar2025 17:12:18.978] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1491, y=125, z=-2246} BlockPos{x=-1489, y=126, z=-2245}
+[15Mar2025 17:12:57.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[15Mar2025 17:13:22.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has completed the challenge [The Power of the Sun]
+[15Mar2025 17:13:22.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has completed the challenge [The Power of the Sun]
+[15Mar2025 17:15:20.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[15Mar2025 17:15:40.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[15Mar2025 17:15:40.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Fruits of the Field]
+[15Mar2025 17:16:37.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[15Mar2025 17:19:41.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[15Mar2025 17:19:48.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Rotten to the Core]
+[15Mar2025 17:20:08.803] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[15Mar2025 17:20:09.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[15Mar2025 17:20:09.805] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[15Mar2025 17:20:11.153] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[15Mar2025 17:20:12.252] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[15Mar2025 17:20:13.104] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[15Mar2025 17:20:13.654] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[15Mar2025 17:20:14.954] [Server thread/INFO] [net.Pandarix.bushierflowers.BushierFlowers/]: Mixin loaded
+[15Mar2025 17:23:23.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[15Mar2025 17:23:46.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[15Mar2025 17:23:48.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
