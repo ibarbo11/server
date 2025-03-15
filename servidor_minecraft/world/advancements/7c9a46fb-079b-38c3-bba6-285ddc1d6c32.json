@@ -1066,6 +1066,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2025-03-15 01:15:39 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2025-03-15 00:47:54 +0000"
@@ -1081,6 +1087,12 @@
   "new_slab_variants:recipes/building_blocks/calcite_slab": {
     "criteria": {
       "has_calcite": "2025-03-15 01:04:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-03-15 01:15:39 +0000"
     },
     "done": true
   },
