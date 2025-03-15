@@ -2957,3 +2957,5 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [15Mar2025 16:38:31.410] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: myser444[/127.148.57.27:54665] logged in with entity id 8117 at (-1462.0968930640154, 130.125, -2333.9602216136586)
 [15Mar2025 16:38:31.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 joined the game
 [15Mar2025 16:38:31.534] [Server thread/INFO] [Jade/]: Syncing config to myser444 (bf99e74b-a15b-39e5-b20b-a65e6dee0df2)
+[15Mar2025 16:45:10.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[15Mar2025 16:54:52.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
