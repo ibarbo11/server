@@ -3040,3 +3040,24 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [15Mar2025 17:23:23.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
 [15Mar2025 17:23:46.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
 [15Mar2025 17:23:48.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[15Mar2025 17:28:15.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Set the time to 1000]
+[15Mar2025 17:29:17.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Hot Stuff]
+[15Mar2025 17:29:23.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[15Mar2025 17:30:59.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[15Mar2025 17:31:06.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[15Mar2025 17:31:09.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[15Mar2025 17:33:17.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[15Mar2025 17:34:34.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to myser444]
+[15Mar2025 17:36:18.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[15Mar2025 17:36:26.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[15Mar2025 17:38:44.677] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1475, y=137, z=-2378} BlockPos{x=-1474, y=136, z=-2379}
+[15Mar2025 17:39:14.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [The Parrots and the Bats]
+[15Mar2025 17:39:20.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[15Mar2025 17:39:56.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[15Mar2025 17:40:35.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[15Mar2025 17:40:40.805] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 lost connection: Disconnected
+[15Mar2025 17:40:40.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 left the game
+[15Mar2025 17:42:32.919] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carloselpillo lost connection: Disconnected
+[15Mar2025 17:42:32.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo left the game
+[15Mar2025 17:43:12.947] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: myser444 lost connection: Disconnected
+[15Mar2025 17:43:12.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 left the game
