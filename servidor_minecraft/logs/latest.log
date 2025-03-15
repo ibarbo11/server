@@ -3002,3 +3002,35 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [15Mar2025 01:49:33.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
 [15Mar2025 01:53:02.610] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carloselpillo lost connection: Disconnected
 [15Mar2025 01:53:02.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo left the game
+[15Mar2025 02:08:37.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[15Mar2025 02:08:37.310] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[15Mar2025 02:08:37.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15Mar2025 02:08:37.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15Mar2025 02:08:37.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Mar2025 02:08:37.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15Mar2025 02:08:37.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[15Mar2025 02:08:37.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[15Mar2025 02:08:37.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:mining
+[15Mar2025 02:08:37.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15Mar2025 02:08:37.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[15Mar2025 02:08:37.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_other
+[15Mar2025 02:08:37.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15Mar2025 02:08:37.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/bloodmagic:dungeon
+[15Mar2025 02:08:37.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[15Mar2025 02:08:37.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_beyond
+[15Mar2025 02:08:37.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15Mar2025 02:08:37.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[15Mar2025 02:08:37.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[15Mar2025 02:08:37.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[15Mar2025 02:08:37.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Mar2025 02:08:37.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[15Mar2025 02:08:37.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_other): All chunks are saved
+[15Mar2025 02:08:37.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15Mar2025 02:08:37.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[15Mar2025 02:08:37.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[15Mar2025 02:08:37.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_beyond): All chunks are saved
+[15Mar2025 02:08:37.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15Mar2025 02:08:37.603] [Server thread/INFO] [Framework/]: Unloading server configs...
+[15Mar2025 02:08:37.609] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[15Mar2025 02:08:37.614] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[15Mar2025 02:08:37.733] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
