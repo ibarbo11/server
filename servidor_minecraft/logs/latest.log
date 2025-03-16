@@ -2957,3 +2957,5 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [16Mar2025 01:18:07.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
 [16Mar2025 01:25:14.590] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/6635, l='ServerLevel[world]', x=-1483.68, y=126.74, z=-2228.11] died, message: 'Fisherman tried to swim in lava'
 [16Mar2025 01:30:40.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[16Mar2025 01:38:16.790] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[16Mar2025 01:38:16.790] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
