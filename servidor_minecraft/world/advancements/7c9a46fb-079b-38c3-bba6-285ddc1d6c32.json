@@ -507,17 +507,21 @@
       "minecraft:taiga": "2025-03-16 01:17:00 +0000",
       "minecraft:cherry_grove": "2025-03-14 14:21:21 +0000",
       "minecraft:sunflower_plains": "2025-03-14 14:22:12 +0000",
+      "minecraft:birch_forest": "2025-03-16 23:05:01 +0000",
       "minecraft:windswept_hills": "2025-03-14 16:02:40 +0000",
       "minecraft:beach": "2025-03-16 18:59:20 +0000",
+      "minecraft:river": "2025-03-16 23:03:46 +0000",
       "minecraft:snowy_plains": "2025-03-14 14:33:21 +0000",
       "minecraft:stony_shore": "2025-03-14 15:02:46 +0000",
       "minecraft:snowy_taiga": "2025-03-14 14:32:39 +0000",
       "minecraft:swamp": "2025-03-14 15:20:56 +0000",
       "minecraft:cold_ocean": "2025-03-16 22:51:34 +0000",
       "minecraft:forest": "2025-03-16 02:08:32 +0000",
+      "minecraft:deep_cold_ocean": "2025-03-16 23:00:28 +0000",
       "minecraft:windswept_forest": "2025-03-16 01:17:16 +0000",
       "minecraft:ocean": "2025-03-15 17:28:40 +0000",
       "minecraft:flower_forest": "2025-03-14 14:21:01 +0000",
+      "minecraft:old_growth_birch_forest": "2025-03-16 23:05:09 +0000",
       "minecraft:meadow": "2025-03-14 14:21:03 +0000",
       "minecraft:plains": "2025-03-14 15:12:57 +0000"
     },
@@ -1359,6 +1363,12 @@
   "iceandfire:iceandfire/tame_hippocampus": {
     "criteria": {
       "tame_rat": "2025-03-16 22:51:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-16 23:01:37 +0000"
     },
     "done": true
   },
