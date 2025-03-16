@@ -665,6 +665,7 @@
       "minecraft:skeleton": "2025-03-14 15:23:21 +0000",
       "minecraft:spider": "2025-03-14 17:18:20 +0000",
       "minecraft:creeper": "2025-03-14 15:23:11 +0000",
+      "minecraft:phantom": "2025-03-16 15:19:48 +0000",
       "minecraft:witch": "2025-03-14 17:19:40 +0000",
       "minecraft:silverfish": "2025-03-14 15:51:54 +0000",
       "minecraft:zombie": "2025-03-14 15:24:10 +0000",
@@ -960,6 +961,12 @@
       "requirement": "2025-03-16 15:04:40 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-03-16 15:19:48 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
