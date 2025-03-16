@@ -1174,6 +1174,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-03-16 14:09:39 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2025-03-16 13:33:05 +0000"
@@ -1189,6 +1195,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-03-16 13:42:40 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/concrete": {
+    "criteria": {
+      "has_planks": "2025-03-16 14:08:19 +0000"
     },
     "done": true
   },
