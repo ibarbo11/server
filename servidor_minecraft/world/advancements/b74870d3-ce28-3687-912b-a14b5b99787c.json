@@ -695,6 +695,7 @@
       "minecraft:skeleton": "2025-03-14 15:27:14 +0000",
       "minecraft:spider": "2025-03-14 14:49:11 +0000",
       "minecraft:creeper": "2025-03-16 02:14:13 +0000",
+      "minecraft:slime": "2025-03-16 02:35:41 +0000",
       "minecraft:stray": "2025-03-16 02:27:45 +0000",
       "minecraft:zombie": "2025-03-14 14:49:16 +0000",
       "minecraft:zombie_villager": "2025-03-15 01:19:58 +0000"
@@ -1042,9 +1043,27 @@
     },
     "done": false
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-03-16 02:32:54 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/amethyst_block_slab": {
+    "criteria": {
+      "has_amethyst_block": "2025-03-16 02:40:22 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/deepslate_slab": {
     "criteria": {
       "has_deepslate": "2025-03-16 02:29:35 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/calcite_slab": {
+    "criteria": {
+      "has_calcite": "2025-03-16 02:40:21 +0000"
     },
     "done": true
   },
@@ -1072,6 +1091,12 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-03-16 02:33:01 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/boss": {
     "criteria": {
       "sword": "2025-03-16 02:27:45 +0000"
@@ -1081,6 +1106,24 @@
   "immersive_paintings:misc/glow_painting": {
     "criteria": {
       "has_item": "2025-03-16 02:29:27 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/smooth_basalt_slab": {
+    "criteria": {
+      "has_smooth_basalt": "2025-03-16 02:40:19 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/tuff_slab": {
+    "criteria": {
+      "has_tuff": "2025-03-16 02:34:49 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/polished_calcite": {
+    "criteria": {
+      "has_item": "2025-03-16 02:40:21 +0000"
     },
     "done": true
   },
