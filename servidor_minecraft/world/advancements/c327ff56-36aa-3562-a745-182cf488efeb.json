@@ -957,6 +957,18 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2025-03-16 15:50:48 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/painting": {
+    "criteria": {
+      "has_item": "2025-03-16 15:50:15 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/stripped_spruce_log_slab": {
     "criteria": {
       "has_stripped_spruce_log": "2025-03-16 15:25:58 +0000"
@@ -969,11 +981,29 @@
     },
     "done": true
   },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-03-16 15:50:28 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
       "phantom": "2025-03-16 15:19:48 +0000"
     },
     "done": false
+  },
+  "hearth_and_home:recipes/paper_lanterns": {
+    "criteria": {
+      "has_item": "2025-03-16 15:50:15 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/dark_oak_planks": {
+    "criteria": {
+      "has_planks": "2025-03-16 15:57:21 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

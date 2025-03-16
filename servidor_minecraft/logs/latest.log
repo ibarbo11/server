@@ -3060,3 +3060,16 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [16Mar2025 15:47:08.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to andresgc_26]
 [16Mar2025 15:47:45.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to andresgc_26]
 [16Mar2025 15:48:03.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported andresgc_26 to carloselpillo]
+[16Mar2025 15:49:39.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [andresgc_26: Teleported andresgc_26 to carloselpillo]
+[16Mar2025 15:50:28.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 has completed the challenge [Centennial]
+[16Mar2025 15:50:35.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to andresgc_26]
+[16Mar2025 15:50:40.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Rotten to the Core]
+[16Mar2025 15:50:48.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 has made the advancement [Would you Like to Know More?]
+[16Mar2025 15:52:00.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to andresgc_26]
+[16Mar2025 15:52:20.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16Mar2025 15:52:20.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[16Mar2025 15:53:02.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to andresgc_26]
+[16Mar2025 15:55:25.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to andresgc_26]
+[16Mar2025 15:57:41.402] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[16Mar2025 15:57:41.403] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[16Mar2025 15:57:51.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
