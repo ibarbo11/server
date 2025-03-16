@@ -463,9 +463,11 @@
   },
   "wythers:world_explorer": {
     "criteria": {
+      "wythers:autumnal_flower_forest": "2025-03-16 16:10:52 +0000",
       "wythers:boreal_forest_yellow": "2025-03-14 15:06:48 +0000",
       "wythers:marsh": "2025-03-14 16:17:21 +0000",
       "wythers:thermal_taiga": "2025-03-14 16:28:25 +0000",
+      "wythers:gravelly_river": "2025-03-16 16:03:29 +0000",
       "wythers:thermal_taiga_crags": "2025-03-14 17:30:35 +0000",
       "wythers:boreal_forest_red": "2025-03-14 14:59:42 +0000",
       "wythers:cold_plains": "2025-03-14 17:05:27 +0000",
@@ -509,11 +511,16 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-03-16 15:48:54 +0000",
+      "minecraft:cherry_grove": "2025-03-16 16:10:20 +0000",
+      "minecraft:sunflower_plains": "2025-03-16 16:11:26 +0000",
       "minecraft:windswept_hills": "2025-03-14 16:16:59 +0000",
+      "minecraft:snowy_taiga": "2025-03-16 16:17:49 +0000",
       "minecraft:grove": "2025-03-14 14:59:37 +0000",
       "minecraft:forest": "2025-03-14 15:37:28 +0000",
+      "minecraft:frozen_ocean": "2025-03-16 16:15:39 +0000",
       "minecraft:frozen_peaks": "2025-03-14 14:58:57 +0000",
-      "minecraft:meadow": "2025-03-14 15:34:11 +0000"
+      "minecraft:meadow": "2025-03-14 15:34:11 +0000",
+      "minecraft:plains": "2025-03-16 16:16:29 +0000"
     },
     "done": false
   },
@@ -957,6 +964,24 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-03-16 16:15:52 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-03-16 16:19:05 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_infested_temple_map": {
+    "criteria": {
+      "find_map": "2025-03-16 16:08:32 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/lectern": {
     "criteria": {
       "bestiary": "2025-03-16 15:50:48 +0000"
@@ -966,6 +991,12 @@
   "immersive_paintings:misc/painting": {
     "criteria": {
       "has_item": "2025-03-16 15:50:15 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/fruits_of_the_field": {
+    "criteria": {
+      "fruits_of_the_field": "2025-03-16 16:16:29 +0000"
     },
     "done": true
   },
@@ -996,6 +1027,12 @@
   "hearth_and_home:recipes/paper_lanterns": {
     "criteria": {
       "has_item": "2025-03-16 15:50:15 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2025-03-16 16:07:35 +0000"
     },
     "done": true
   },

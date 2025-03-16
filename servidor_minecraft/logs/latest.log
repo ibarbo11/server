@@ -3073,3 +3073,24 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [16Mar2025 15:57:41.402] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [16Mar2025 15:57:41.403] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
 [16Mar2025 15:57:51.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[16Mar2025 16:00:04.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to andresgc_26]
+[16Mar2025 16:02:09.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[16Mar2025 16:02:14.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the weather to clear]
+[16Mar2025 16:03:55.518] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Ostoia'/51023, l='ServerLevel[world]', x=357.52, y=133.77, z=-552.70] died: Ostoia was melted by carloselpillo's poisonous breath
+[16Mar2025 16:08:04.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to andresgc_26]
+[16Mar2025 16:08:51.108] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/52605, l='ServerLevel[world]', x=244.82, y=191.00, z=-1701.60] died, message: 'Librarian burned to death'
+[16Mar2025 16:08:54.955] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/52636, l='ServerLevel[world]', x=270.30, y=189.42, z=-1670.28] died, message: 'Librarian burned to death'
+[16Mar2025 16:11:00.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo was incinerated by Fire Dragon
+[16Mar2025 16:11:00.400] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[16Mar2025 16:11:27.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has reached the goal [Chain Death]
+[16Mar2025 16:11:27.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo was slain by Fire Dragon
+[16Mar2025 16:11:27.552] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[16Mar2025 16:13:21.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo was incinerated by Fire Dragon
+[16Mar2025 16:13:21.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carloselpillo moved wrongly!
+[16Mar2025 16:13:21.399] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[16Mar2025 16:14:27.488] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carloselpillo lost connection: Disconnected
+[16Mar2025 16:14:27.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo left the game
+[16Mar2025 16:15:38.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2177ms or 43 ticks behind
+[16Mar2025 16:15:52.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 has completed the challenge [Free Willy]
+[16Mar2025 16:16:29.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 has made the advancement [Fruits of the Field]
+[16Mar2025 16:19:01.259] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2861ms or 57 ticks behind
