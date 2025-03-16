@@ -1241,6 +1241,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+    "criteria": {
+      "requirement": "2025-03-16 15:12:10 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/brown_wool_slab": {
     "criteria": {
       "has_brown_wool": "2025-03-16 14:26:57 +0000"
@@ -1250,6 +1256,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-03-16 13:42:40 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-03-16 15:12:12 +0000"
     },
     "done": true
   },
