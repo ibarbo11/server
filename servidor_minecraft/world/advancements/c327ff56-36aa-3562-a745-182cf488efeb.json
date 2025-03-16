@@ -907,23 +907,11 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/sunbird_blessing": {
-    "criteria": {
-      "all_effects": "2025-03-16 02:14:00 +0000"
-    },
-    "done": true
-  },
   "vinery:main/vineyard_visionary": {
     "criteria": {
       "vinery:taiga_grapes_white": "2025-03-16 02:09:16 +0000"
     },
     "done": false
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-03-16 02:41:23 +0000"
-    },
-    "done": true
   },
   "vinery:main/grape_picker": {
     "criteria": {
@@ -931,9 +919,9 @@
     },
     "done": false
   },
-  "minecraft:adventure/throw_trident": {
+  "alexsmobs:alexsmobs/sunbird_blessing": {
     "criteria": {
-      "shot_trident": "2025-03-16 03:14:50 +0000"
+      "all_effects": "2025-03-16 02:14:00 +0000"
     },
     "done": true
   },
@@ -943,15 +931,27 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/acacia_blossom": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "acacia_blossom": "2025-03-16 02:48:13 +0000"
+      "shot_arrow": "2025-03-16 02:41:23 +0000"
     },
     "done": true
   },
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2025-03-16 02:46:03 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-03-16 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-03-16 03:14:50 +0000"
     },
     "done": true
   },

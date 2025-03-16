@@ -3034,3 +3034,7 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [16Mar2025 14:56:59.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 joined the game
 [16Mar2025 14:56:59.522] [Server thread/INFO] [Jade/]: Syncing config to andresgc_26 (c327ff56-36aa-3562-a745-182cf488efeb)
 [16Mar2025 14:57:54.204] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity NecromancerEntity['Mr. President Bob the Ultimate'/26238, l='ServerLevel[world]', x=314.59, y=131.25, z=-482.15] died: Mr. President Bob the Ultimate was killed by magic whilst trying to escape carloselpillo
+[16Mar2025 14:58:28.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to andresgc_26]
+[16Mar2025 15:02:47.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [No Longer Short-Staffed]
+[16Mar2025 15:06:57.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to andresgc_26]
+[16Mar2025 15:07:01.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]

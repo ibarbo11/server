@@ -723,6 +723,7 @@
       "minecraft:cherry_grove": "2025-03-14 16:00:43 +0000",
       "minecraft:sunflower_plains": "2025-03-14 15:58:51 +0000",
       "minecraft:snowy_plains": "2025-03-14 15:26:36 +0000",
+      "minecraft:snowy_taiga": "2025-03-16 14:57:26 +0000",
       "minecraft:swamp": "2025-03-14 15:21:02 +0000",
       "minecraft:grove": "2025-03-16 13:35:39 +0000",
       "minecraft:jagged_peaks": "2025-03-16 13:34:52 +0000",
@@ -1213,6 +1214,12 @@
   "new_slab_variants:recipes/building_blocks/light_gray_wool_slab": {
     "criteria": {
       "has_light_gray_wool": "2025-03-16 14:41:11 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2025-03-16 15:02:47 +0000"
     },
     "done": true
   },
