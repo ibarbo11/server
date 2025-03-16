@@ -464,6 +464,7 @@
   "wythers:world_explorer": {
     "criteria": {
       "wythers:autumnal_flower_forest": "2025-03-16 16:10:52 +0000",
+      "wythers:autumnal_plains": "2025-03-16 16:38:29 +0000",
       "wythers:boreal_forest_yellow": "2025-03-14 15:06:48 +0000",
       "wythers:marsh": "2025-03-14 16:17:21 +0000",
       "wythers:thermal_taiga": "2025-03-14 16:28:25 +0000",
@@ -475,6 +476,7 @@
       "wythers:cold_stony_shore": "2025-03-14 15:07:54 +0000",
       "wythers:snowy_tundra": "2025-03-14 14:58:47 +0000",
       "wythers:underground": "2025-03-14 15:20:42 +0000",
+      "wythers:cool_forest_edge": "2025-03-16 16:32:28 +0000",
       "wythers:crimson_tundra": "2025-03-14 14:58:43 +0000",
       "wythers:tundra": "2025-03-14 14:54:33 +0000",
       "wythers:fen": "2025-03-14 16:22:37 +0000"
@@ -514,6 +516,7 @@
       "minecraft:cherry_grove": "2025-03-16 16:10:20 +0000",
       "minecraft:sunflower_plains": "2025-03-16 16:11:26 +0000",
       "minecraft:windswept_hills": "2025-03-14 16:16:59 +0000",
+      "minecraft:river": "2025-03-16 16:38:50 +0000",
       "minecraft:snowy_taiga": "2025-03-16 16:17:49 +0000",
       "minecraft:grove": "2025-03-14 14:59:37 +0000",
       "minecraft:forest": "2025-03-14 15:37:28 +0000",
@@ -976,6 +979,12 @@
     },
     "done": true
   },
+  "additionaladditions:obtain_glow_stick": {
+    "criteria": {
+      "obtain": "2025-03-16 16:35:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/lectern": {
     "criteria": {
       "bestiary": "2025-03-16 15:50:48 +0000"
@@ -997,6 +1006,12 @@
   "new_slab_variants:recipes/building_blocks/stripped_spruce_log_slab": {
     "criteria": {
       "has_stripped_spruce_log": "2025-03-16 15:25:58 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-03-16 16:37:28 +0000"
     },
     "done": true
   },
