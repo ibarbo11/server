@@ -3029,3 +3029,32 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [16Mar2025 22:46:39.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
 [16Mar2025 22:47:45.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
 [16Mar2025 22:48:26.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Let it Glow!]
+[16Mar2025 22:49:18.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the weather to clear]
+[16Mar2025 22:49:19.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[16Mar2025 22:49:27.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to carloselpillo]
+[16Mar2025 22:49:54.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[16Mar2025 22:50:07.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Book of Monsters]
+[16Mar2025 22:51:01.135] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-708, y=59, z=-3316} BlockPos{x=-708, y=60, z=-3316}
+[16Mar2025 22:51:01.214] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-708, y=59, z=-3316} BlockPos{x=-708, y=60, z=-3316}
+[16Mar2025 22:51:03.010] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-705, y=59, z=-3315} BlockPos{x=-705, y=60, z=-3315}
+[16Mar2025 22:51:03.065] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-705, y=59, z=-3315} BlockPos{x=-705, y=60, z=-3315}
+[16Mar2025 22:51:17.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 was slain by Ice Dragon
+[16Mar2025 22:51:17.721] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
+[16Mar2025 22:51:31.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[16Mar2025 22:51:36.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to joselete123]
+[16Mar2025 22:51:48.567] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1891, y=53, z=-1624} BlockPos{x=-1891, y=51, z=-1624}
+[16Mar2025 22:51:48.645] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1891, y=53, z=-1624} BlockPos{x=-1891, y=51, z=-1624}
+[16Mar2025 22:51:48.665] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1891, y=53, z=-1624} BlockPos{x=-1891, y=51, z=-1624}
+[16Mar2025 22:51:49.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Best Friends Forever]
+[16Mar2025 22:51:49.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Free Willy]
+[16Mar2025 22:52:12.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Free Willy]
+[16Mar2025 22:52:15.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[16Mar2025 22:52:54.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Best Friends Forever]
+[16Mar2025 22:52:54.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Free Willy]
+[16Mar2025 22:52:55.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[16Mar2025 22:53:40.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to myser444]
+[16Mar2025 22:53:46.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to joselete123]
+[16Mar2025 22:53:49.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[16Mar2025 22:54:22.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[16Mar2025 22:54:53.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[16Mar2025 22:58:46.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]

@@ -388,6 +388,7 @@
       "wythers:boreal_forest_yellow": "2025-03-16 18:23:05 +0000",
       "wythers:snowy_peaks": "2025-03-14 16:04:58 +0000",
       "wythers:thermal_taiga": "2025-03-16 22:34:45 +0000",
+      "wythers:gravelly_river": "2025-03-16 22:46:54 +0000",
       "wythers:thermal_taiga_crags": "2025-03-16 02:17:08 +0000",
       "wythers:boreal_forest_red": "2025-03-14 14:51:47 +0000",
       "wythers:cold_plains": "2025-03-14 21:22:10 +0000",
@@ -399,7 +400,8 @@
       "wythers:tundra": "2025-03-14 14:37:47 +0000",
       "wythers:highlands": "2025-03-14 16:04:13 +0000",
       "wythers:deep_underground": "2025-03-14 20:44:58 +0000",
-      "wythers:fen": "2025-03-14 15:21:20 +0000"
+      "wythers:fen": "2025-03-14 15:21:20 +0000",
+      "wythers:cool_forest": "2025-03-16 22:47:29 +0000"
     },
     "done": false
   },
@@ -729,11 +731,13 @@
       "minecraft:cherry_grove": "2025-03-14 16:00:43 +0000",
       "minecraft:sunflower_plains": "2025-03-14 15:58:51 +0000",
       "minecraft:windswept_hills": "2025-03-16 15:47:30 +0000",
+      "minecraft:beach": "2025-03-16 22:51:31 +0000",
       "minecraft:snowy_plains": "2025-03-14 15:26:36 +0000",
       "minecraft:snowy_taiga": "2025-03-16 14:57:26 +0000",
       "minecraft:swamp": "2025-03-14 15:21:02 +0000",
       "minecraft:grove": "2025-03-16 13:35:39 +0000",
       "minecraft:jagged_peaks": "2025-03-16 13:34:52 +0000",
+      "minecraft:cold_ocean": "2025-03-16 22:51:36 +0000",
       "minecraft:forest": "2025-03-14 14:53:00 +0000",
       "minecraft:flower_forest": "2025-03-15 17:15:42 +0000",
       "minecraft:frozen_peaks": "2025-03-14 16:05:01 +0000",
@@ -1437,6 +1441,12 @@
   "beautify:botanist_workbench": {
     "criteria": {
       "requirement": "2025-03-16 22:42:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_hippocampus": {
+    "criteria": {
+      "tame_rat": "2025-03-16 22:52:12 +0000"
     },
     "done": true
   },

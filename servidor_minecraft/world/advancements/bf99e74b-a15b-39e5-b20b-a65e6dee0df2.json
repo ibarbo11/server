@@ -690,6 +690,7 @@
       "minecraft:windswept_hills": "2025-03-14 16:02:40 +0000",
       "minecraft:beach": "2025-03-16 18:50:21 +0000",
       "minecraft:jagged_peaks": "2025-03-16 17:45:05 +0000",
+      "minecraft:cold_ocean": "2025-03-16 22:51:38 +0000",
       "minecraft:ocean": "2025-03-16 17:19:52 +0000",
       "minecraft:frozen_peaks": "2025-03-16 17:44:38 +0000",
       "minecraft:meadow": "2025-03-16 22:33:49 +0000",
@@ -1122,9 +1123,27 @@
     },
     "done": true
   },
+  "additionaladditions:obtain_glow_stick": {
+    "criteria": {
+      "obtain": "2025-03-16 22:48:26 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/diorite": {
     "criteria": {
       "has_planks": "2025-03-16 22:45:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-03-16 22:52:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-03-16 22:50:07 +0000"
     },
     "done": true
   },
@@ -1137,6 +1156,12 @@
   "botania:main/flower_pickup_lexicon": {
     "criteria": {
       "flower": "2025-03-16 22:29:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_hippocampus": {
+    "criteria": {
+      "tame_rat": "2025-03-16 22:52:54 +0000"
     },
     "done": true
   },
