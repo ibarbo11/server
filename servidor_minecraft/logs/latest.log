@@ -2987,3 +2987,5 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [16Mar2025 13:42:40.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Ice Bucket Challenge]
 [16Mar2025 13:44:03.594] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=831, y=-51, z=-1082} but found not block entity block Block{minecraft:air} at location
 [16Mar2025 13:44:03.594] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=831, y=-51, z=-1082}
+[16Mar2025 13:49:50.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[16Mar2025 13:56:37.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the weather to clear]
