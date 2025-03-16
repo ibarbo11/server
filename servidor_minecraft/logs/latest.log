@@ -3019,3 +3019,18 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [16Mar2025 14:43:03.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Book of Monsters]
 [16Mar2025 14:46:02.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Would you Like to Know More?]
 [16Mar2025 14:46:55.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Tools of the Trade]
+[16Mar2025 14:49:09.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has reached the goal [Quaint Scribe]
+[16Mar2025 14:54:27.659] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/23475, l='ServerLevel[world]', x=751.95, y=77.00, z=-1372.27] died, message: 'Librarian was slain by Zombie Villager'
+[16Mar2025 14:56:31.604] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[16Mar2025 14:56:31.605] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[16Mar2025 14:56:54.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[16Mar2025 14:56:59.420] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[16Mar2025 14:56:59.422] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[16Mar2025 14:56:59.427] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[16Mar2025 14:56:59.438] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[16Mar2025 14:56:59.440] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[16Mar2025 14:56:59.445] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[16Mar2025 14:56:59.446] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: andresgc_26[/127.117.166.183:51667] logged in with entity id 26290 at (-1533.6143241737673, 133.0, -2425.561420309116)
+[16Mar2025 14:56:59.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 joined the game
+[16Mar2025 14:56:59.522] [Server thread/INFO] [Jade/]: Syncing config to andresgc_26 (c327ff56-36aa-3562-a745-182cf488efeb)
+[16Mar2025 14:57:54.204] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity NecromancerEntity['Mr. President Bob the Ultimate'/26238, l='ServerLevel[world]', x=314.59, y=131.25, z=-482.15] died: Mr. President Bob the Ultimate was killed by magic whilst trying to escape carloselpillo
