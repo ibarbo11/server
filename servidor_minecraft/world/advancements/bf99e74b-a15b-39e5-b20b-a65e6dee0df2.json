@@ -484,10 +484,9 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "requirement": "2025-03-16 22:35:47 +0000",
       "log_spam_fixer": "2025-03-14 15:42:42 +0000"
     },
-    "done": true
+    "done": false
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -1111,9 +1110,21 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/andesite": {
+    "criteria": {
+      "has_planks": "2025-03-16 22:43:28 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/obsidian_slab": {
     "criteria": {
       "has_obsidian": "2025-03-16 22:34:13 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/diorite": {
+    "criteria": {
+      "has_planks": "2025-03-16 22:45:40 +0000"
     },
     "done": true
   },

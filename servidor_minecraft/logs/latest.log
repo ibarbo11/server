@@ -3017,3 +3017,15 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [16Mar2025 22:37:12.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported myser444 to joselete123]
 [16Mar2025 22:37:34.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 was slain by Husk
 [16Mar2025 22:37:34.207] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[16Mar2025 22:40:03.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[16Mar2025 22:40:32.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[16Mar2025 22:42:30.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[16Mar2025 22:42:34.884] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-894, y=89, z=-3212} BlockPos{x=-894, y=89, z=-3213}
+[16Mar2025 22:43:54.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[16Mar2025 22:44:37.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[16Mar2025 22:44:39.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[16Mar2025 22:45:02.351] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/8429, l='ServerLevel[world]', x=-897.65, y=99.49, z=-3196.54] died: Honeyed Archer suffocated in a wall
+[16Mar2025 22:46:15.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to joselete123]
+[16Mar2025 22:46:39.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[16Mar2025 22:47:45.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[16Mar2025 22:48:26.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Let it Glow!]
