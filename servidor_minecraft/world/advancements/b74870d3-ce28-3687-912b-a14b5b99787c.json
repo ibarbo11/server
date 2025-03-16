@@ -722,6 +722,7 @@
       "minecraft:snowy_slopes": "2025-03-14 16:04:15 +0000",
       "minecraft:cherry_grove": "2025-03-14 16:00:43 +0000",
       "minecraft:sunflower_plains": "2025-03-14 15:58:51 +0000",
+      "minecraft:windswept_hills": "2025-03-16 15:47:30 +0000",
       "minecraft:snowy_plains": "2025-03-14 15:26:36 +0000",
       "minecraft:snowy_taiga": "2025-03-16 14:57:26 +0000",
       "minecraft:swamp": "2025-03-14 15:21:02 +0000",
@@ -1268,6 +1269,12 @@
   "mcwroofs:recipes/concrete": {
     "criteria": {
       "has_planks": "2025-03-16 14:08:19 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-03-16 15:39:08 +0000"
     },
     "done": true
   },
