@@ -484,9 +484,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2025-03-16 22:35:47 +0000",
       "log_spam_fixer": "2025-03-14 15:42:42 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -692,6 +693,7 @@
       "minecraft:jagged_peaks": "2025-03-16 17:45:05 +0000",
       "minecraft:ocean": "2025-03-16 17:19:52 +0000",
       "minecraft:frozen_peaks": "2025-03-16 17:44:38 +0000",
+      "minecraft:meadow": "2025-03-16 22:33:49 +0000",
       "minecraft:plains": "2025-03-16 17:46:44 +0000"
     },
     "done": false
@@ -1094,6 +1096,48 @@
   "apotheosis:enchanting/bookshelf": {
     "criteria": {
       "bookshelf": "2025-03-16 19:07:06 +0000"
+    },
+    "done": true
+  },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-03-16 22:29:53 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-03-16 22:29:53 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/obsidian_slab": {
+    "criteria": {
+      "has_obsidian": "2025-03-16 22:34:13 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-03-16 22:34:04 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2025-03-16 22:29:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-16 22:34:13 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-03-16 22:34:10 +0000"
     },
     "done": true
   },

@@ -1336,5 +1336,17 @@
     },
     "done": true
   },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-03-16 22:32:14 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/red_nether_bricks": {
+    "criteria": {
+      "has_planks": "2025-03-16 22:33:34 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

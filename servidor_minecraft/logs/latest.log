@@ -2957,3 +2957,63 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [16Mar2025 22:24:02.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Gamerule keepInventory is now set to: true]
 [16Mar2025 22:24:33.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Removed 5 item(s) from player myser444]
 [16Mar2025 22:26:47.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to myser444]
+[16Mar2025 22:29:51.584] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1469, y=132, z=-2351} BlockPos{x=-1470, y=131, z=-2351}
+[16Mar2025 22:29:51.874] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1470, y=131, z=-2349} BlockPos{x=-1469, y=131, z=-2351}
+[16Mar2025 22:29:51.879] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1470, y=131, z=-2349} BlockPos{x=-1469, y=131, z=-2351}
+[16Mar2025 22:29:52.377] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1468, y=132, z=-2351} BlockPos{x=-1468, y=132, z=-2352}
+[16Mar2025 22:29:52.427] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1468, y=132, z=-2351} BlockPos{x=-1468, y=132, z=-2352}
+[16Mar2025 22:29:52.478] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1468, y=132, z=-2351} BlockPos{x=-1468, y=132, z=-2352}
+[16Mar2025 22:29:52.528] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1468, y=132, z=-2351} BlockPos{x=-1468, y=132, z=-2352}
+[16Mar2025 22:29:52.577] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1466, y=132, z=-2349} BlockPos{x=-1468, y=132, z=-2352}
+[16Mar2025 22:29:52.779] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1467, y=133, z=-2352} BlockPos{x=-1466, y=131, z=-2349}
+[16Mar2025 22:29:53.078] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1466, y=133, z=-2351} BlockPos{x=-1464, y=132, z=-2350}
+[16Mar2025 22:29:53.130] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1466, y=133, z=-2351} BlockPos{x=-1464, y=132, z=-2350}
+[16Mar2025 22:29:53.178] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1466, y=133, z=-2351} BlockPos{x=-1464, y=132, z=-2350}
+[16Mar2025 22:29:53.227] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1468, y=133, z=-2353} BlockPos{x=-1464, y=132, z=-2350}
+[16Mar2025 22:29:53.282] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1468, y=133, z=-2353} BlockPos{x=-1464, y=132, z=-2350}
+[16Mar2025 22:29:53.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1468, y=133, z=-2353} BlockPos{x=-1464, y=132, z=-2350}
+[16Mar2025 22:29:53.384] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1468, y=133, z=-2353} BlockPos{x=-1464, y=132, z=-2350}
+[16Mar2025 22:29:53.430] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1468, y=133, z=-2353} BlockPos{x=-1464, y=132, z=-2350}
+[16Mar2025 22:29:53.478] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1465, y=133, z=-2351} BlockPos{x=-1464, y=132, z=-2350}
+[16Mar2025 22:29:53.530] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1465, y=133, z=-2351} BlockPos{x=-1464, y=132, z=-2350}
+[16Mar2025 22:30:08.680] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1485, y=126, z=-2327} BlockPos{x=-1483, y=125, z=-2327}
+[16Mar2025 22:30:08.929] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1484, y=126, z=-2325} BlockPos{x=-1485, y=125, z=-2326}
+[16Mar2025 22:30:08.978] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1484, y=126, z=-2325} BlockPos{x=-1485, y=125, z=-2326}
+[16Mar2025 22:31:47.397] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[16Mar2025 22:31:47.399] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[16Mar2025 22:31:47.400] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[16Mar2025 22:31:47.401] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[16Mar2025 22:31:47.401] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[16Mar2025 22:31:47.403] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[16Mar2025 22:31:47.404] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[16Mar2025 22:31:47.508] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[16Mar2025 22:31:47.509] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[16Mar2025 22:31:47.509] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[16Mar2025 22:31:47.510] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[16Mar2025 22:31:47.510] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[16Mar2025 22:31:49.993] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[16Mar2025 22:31:49.994] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[16Mar2025 22:31:49.994] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[16Mar2025 22:31:49.994] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[16Mar2025 22:31:49.994] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[16Mar2025 22:31:50.136] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[16Mar2025 22:31:50.136] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[16Mar2025 22:31:50.136] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[16Mar2025 22:32:22.392] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[16Mar2025 22:32:22.394] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[16Mar2025 22:32:22.401] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[16Mar2025 22:32:22.415] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[16Mar2025 22:32:22.417] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[16Mar2025 22:32:22.425] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[16Mar2025 22:32:22.425] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: carloselpillo[/127.181.160.16:47613] logged in with entity id 5715 at (301.06701178495837, 123.0, -563.827908811923)
+[16Mar2025 22:32:22.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo joined the game
+[16Mar2025 22:32:22.598] [Server thread/INFO] [Jade/]: Syncing config to carloselpillo (b74870d3-ce28-3687-912b-a14b5b99787c)
+[16Mar2025 22:33:34.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to carloselpillo]
+[16Mar2025 22:34:03.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to joselete123]
+[16Mar2025 22:34:10.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has completed the challenge [Centennial]
+[16Mar2025 22:34:13.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Ice Bucket Challenge]
+[16Mar2025 22:34:44.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[16Mar2025 22:36:10.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported joselete123 to carloselpillo]
+[16Mar2025 22:37:12.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported myser444 to joselete123]
+[16Mar2025 22:37:34.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 was slain by Husk
+[16Mar2025 22:37:34.207] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
