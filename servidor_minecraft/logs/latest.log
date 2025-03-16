@@ -2959,3 +2959,4 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [16Mar2025 01:30:40.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
 [16Mar2025 01:38:16.790] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [16Mar2025 01:38:16.790] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[16Mar2025 01:43:50.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
