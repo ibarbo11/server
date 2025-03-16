@@ -2970,3 +2970,31 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [16Mar2025 01:56:24.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 joined the game
 [16Mar2025 01:56:24.643] [Server thread/INFO] [Jade/]: Syncing config to andresgc_26 (c327ff56-36aa-3562-a745-182cf488efeb)
 [16Mar2025 01:59:42.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[16Mar2025 02:05:43.659] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[16Mar2025 02:05:43.661] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[16Mar2025 02:05:43.666] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[16Mar2025 02:05:43.676] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[16Mar2025 02:05:43.678] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[16Mar2025 02:05:43.683] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[16Mar2025 02:05:43.683] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: carloselpillo[/127.181.160.16:34197] logged in with entity id 16881 at (297.51075194666066, 130.0, -563.285544252071)
+[16Mar2025 02:05:43.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo joined the game
+[16Mar2025 02:05:43.777] [Server thread/INFO] [Jade/]: Syncing config to carloselpillo (b74870d3-ce28-3687-912b-a14b5b99787c)
+[16Mar2025 02:05:46.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joselete123> ke kiere
+[16Mar2025 02:08:14.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[16Mar2025 02:08:47.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported andresgc_26 to joselete123]
+[16Mar2025 02:09:05.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[16Mar2025 02:10:14.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Hunt and Gather]
+[16Mar2025 02:11:17.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [andresgc_26: Teleported carloselpillo to andresgc_26]
+[16Mar2025 02:11:34.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [andresgc_26: Teleported andresgc_26 to carloselpillo]
+[16Mar2025 02:11:42.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[16Mar2025 02:12:18.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [andresgc_26: Teleported andresgc_26 to carloselpillo]
+[16Mar2025 02:12:42.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [andresgc_26: Teleported andresgc_26 to joselete123]
+[16Mar2025 02:13:19.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[16Mar2025 02:14:00.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 has completed the challenge [The Power of the Sun]
+[16Mar2025 02:14:19.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to andresgc_26]
+[16Mar2025 02:14:32.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to andresgc_26]
+[16Mar2025 02:18:12.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[16Mar2025 02:21:21.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[16Mar2025 02:22:28.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Flexible Schedule]
+[16Mar2025 02:22:30.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[16Mar2025 02:22:37.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Flexible Schedule]

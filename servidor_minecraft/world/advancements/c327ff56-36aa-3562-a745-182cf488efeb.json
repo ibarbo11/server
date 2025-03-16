@@ -907,5 +907,23 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-03-16 02:14:00 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/vineyard_visionary": {
+    "criteria": {
+      "vinery:taiga_grapes_white": "2025-03-16 02:09:16 +0000"
+    },
+    "done": false
+  },
+  "vinery:main/grape_picker": {
+    "criteria": {
+      "vinery:taiga_grapes_white": "2025-03-16 02:09:16 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
