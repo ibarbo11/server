@@ -724,6 +724,8 @@
       "minecraft:sunflower_plains": "2025-03-14 15:58:51 +0000",
       "minecraft:snowy_plains": "2025-03-14 15:26:36 +0000",
       "minecraft:swamp": "2025-03-14 15:21:02 +0000",
+      "minecraft:grove": "2025-03-16 13:35:39 +0000",
+      "minecraft:jagged_peaks": "2025-03-16 13:34:52 +0000",
       "minecraft:forest": "2025-03-14 14:53:00 +0000",
       "minecraft:flower_forest": "2025-03-15 17:15:42 +0000",
       "minecraft:frozen_peaks": "2025-03-14 16:05:01 +0000",
@@ -1160,6 +1162,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/obsidian_slab": {
+    "criteria": {
+      "has_obsidian": "2025-03-16 13:42:40 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-03-16 13:32:54 +0000"
@@ -1178,9 +1186,21 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-16 13:42:40 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2025-03-16 13:32:44 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/netherrack_slab": {
+    "criteria": {
+      "has_netherrack": "2025-03-16 13:43:09 +0000"
     },
     "done": true
   },
