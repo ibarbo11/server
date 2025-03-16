@@ -970,12 +970,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-03-16 16:19:05 +0000"
-    },
-    "done": false
-  },
   "dungeons_arise:find_infested_temple_map": {
     "criteria": {
       "find_map": "2025-03-16 16:08:32 +0000"
