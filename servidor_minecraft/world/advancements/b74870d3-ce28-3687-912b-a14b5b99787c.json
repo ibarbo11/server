@@ -1046,111 +1046,15 @@
     },
     "done": false
   },
-  "incendium:technical/sentrys_wrath": {
+  "alexsmobs:alexsmobs/murmur": {
     "criteria": {
-      "log_spam_fixer": "2025-03-16 02:48:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 02:48:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 02:48:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 02:48:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 02:48:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 02:48:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 02:48:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 02:48:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 02:48:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 02:48:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 02:48:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 02:48:12 +0000"
-    },
-    "done": false
-  },
-  "artifacts:chest_slayer": {
-    "criteria": {
-      "kill_mimic": "2025-03-16 02:32:54 +0000"
+      "killed_by": "2025-03-16 02:22:37 +0000"
     },
     "done": true
   },
-  "new_slab_variants:recipes/building_blocks/amethyst_block_slab": {
+  "new_slab_variants:recipes/building_blocks/red_wool_slab": {
     "criteria": {
-      "has_amethyst_block": "2025-03-16 02:40:22 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/deepslate_slab": {
-    "criteria": {
-      "has_deepslate": "2025-03-16 02:29:35 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/calcite_slab": {
-    "criteria": {
-      "has_calcite": "2025-03-16 02:40:21 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:enchanting/enchanter": {
-    "criteria": {
-      "enchanting_table": "2025-03-16 02:47:13 +0000"
-    },
-    "done": true
-  },
-  "additionaladditions:obtain_glow_stick": {
-    "criteria": {
-      "obtain": "2025-03-16 02:27:54 +0000"
+      "has_red_wool": "2025-03-16 02:22:40 +0000"
     },
     "done": true
   },
@@ -1160,9 +1064,15 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/murmur": {
+  "apotheosis:affix/boss": {
     "criteria": {
-      "killed_by": "2025-03-16 02:22:37 +0000"
+      "sword": "2025-03-16 02:27:45 +0000"
+    },
+    "done": true
+  },
+  "additionaladditions:obtain_glow_stick": {
+    "criteria": {
+      "obtain": "2025-03-16 02:27:54 +0000"
     },
     "done": true
   },
@@ -1172,33 +1082,27 @@
     },
     "done": true
   },
-  "lootr:50loot": {
-    "criteria": {
-      "loot_stat": "2025-03-16 02:33:01 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2025-03-16 02:46:23 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/boss": {
-    "criteria": {
-      "sword": "2025-03-16 02:27:45 +0000"
-    },
-    "done": true
-  },
   "immersive_paintings:misc/glow_painting": {
     "criteria": {
       "has_item": "2025-03-16 02:29:27 +0000"
     },
     "done": true
   },
-  "new_slab_variants:recipes/building_blocks/smooth_basalt_slab": {
+  "new_slab_variants:recipes/building_blocks/deepslate_slab": {
     "criteria": {
-      "has_smooth_basalt": "2025-03-16 02:40:19 +0000"
+      "has_deepslate": "2025-03-16 02:29:35 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-03-16 02:32:54 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-03-16 02:33:01 +0000"
     },
     "done": true
   },
@@ -1208,15 +1112,15 @@
     },
     "done": true
   },
-  "new_slab_variants:recipes/building_blocks/iron_block_slab": {
+  "new_slab_variants:recipes/building_blocks/smooth_basalt_slab": {
     "criteria": {
-      "has_iron_block": "2025-03-16 02:47:14 +0000"
+      "has_smooth_basalt": "2025-03-16 02:40:19 +0000"
     },
     "done": true
   },
-  "beautify:candelabras": {
+  "new_slab_variants:recipes/building_blocks/calcite_slab": {
     "criteria": {
-      "requirement": "2025-03-16 02:42:05 +0000"
+      "has_calcite": "2025-03-16 02:40:21 +0000"
     },
     "done": true
   },
@@ -1226,9 +1130,57 @@
     },
     "done": true
   },
-  "new_slab_variants:recipes/building_blocks/red_wool_slab": {
+  "new_slab_variants:recipes/building_blocks/amethyst_block_slab": {
     "criteria": {
-      "has_red_wool": "2025-03-16 02:22:40 +0000"
+      "has_amethyst_block": "2025-03-16 02:40:22 +0000"
+    },
+    "done": true
+  },
+  "beautify:candelabras": {
+    "criteria": {
+      "requirement": "2025-03-16 02:42:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-03-16 02:46:23 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-03-16 02:47:13 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/iron_block_slab": {
+    "criteria": {
+      "has_iron_block": "2025-03-16 02:47:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-03-16 13:32:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-03-16 13:33:05 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-03-16 13:32:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-03-16 13:32:44 +0000"
     },
     "done": true
   },
