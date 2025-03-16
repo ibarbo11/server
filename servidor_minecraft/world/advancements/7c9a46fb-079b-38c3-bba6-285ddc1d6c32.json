@@ -507,6 +507,7 @@
       "minecraft:cherry_grove": "2025-03-14 14:21:21 +0000",
       "minecraft:sunflower_plains": "2025-03-14 14:22:12 +0000",
       "minecraft:windswept_hills": "2025-03-14 16:02:40 +0000",
+      "minecraft:beach": "2025-03-16 18:59:20 +0000",
       "minecraft:snowy_plains": "2025-03-14 14:33:21 +0000",
       "minecraft:stony_shore": "2025-03-14 15:02:46 +0000",
       "minecraft:snowy_taiga": "2025-03-14 14:32:39 +0000",
@@ -809,8 +810,10 @@
     "criteria": {
       "minecraft:pillager": "2025-03-16 02:45:12 +0000",
       "minecraft:skeleton": "2025-03-14 15:07:47 +0000",
+      "minecraft:vindicator": "2025-03-16 18:24:19 +0000",
       "minecraft:spider": "2025-03-14 16:02:17 +0000",
       "minecraft:creeper": "2025-03-15 00:51:28 +0000",
+      "minecraft:evoker": "2025-03-16 18:25:27 +0000",
       "quark:forgotten": "2025-03-14 16:57:39 +0000",
       "minecraft:phantom": "2025-03-15 17:26:28 +0000",
       "minecraft:witch": "2025-03-15 00:59:49 +0000",
@@ -818,6 +821,7 @@
       "minecraft:cave_spider": "2025-03-15 00:48:13 +0000",
       "minecraft:enderman": "2025-03-15 00:53:41 +0000",
       "minecraft:silverfish": "2025-03-15 01:08:33 +0000",
+      "minecraft:vex": "2025-03-16 18:34:51 +0000",
       "minecraft:zombie": "2025-03-14 16:36:31 +0000"
     },
     "done": false
@@ -1206,84 +1210,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 03:01:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 03:01:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 03:01:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 03:01:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 03:01:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 03:01:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 03:01:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 03:01:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 03:01:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 03:01:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 03:01:13 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-16 03:01:13 +0000"
-    },
-    "done": false
-  },
-  "new_slab_variants:recipes/building_blocks/deepslate_slab": {
-    "criteria": {
-      "has_deepslate": "2025-03-16 02:19:25 +0000"
-    },
-    "done": true
-  },
   "vinery:main/vineyard_visionary": {
     "criteria": {
       "vinery:taiga_grapes_white": "2025-03-16 02:09:15 +0000"
@@ -1296,9 +1222,15 @@
     },
     "done": false
   },
-  "alexsmobs:alexsmobs/murmur": {
+  "farmersdelight:main/craft_knife": {
     "criteria": {
-      "killed_by": "2025-03-16 02:22:28 +0000"
+      "iron_knife": "2025-03-16 02:10:14 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/deepslate_slab": {
+    "criteria": {
+      "has_deepslate": "2025-03-16 02:19:25 +0000"
     },
     "done": true
   },
@@ -1308,9 +1240,171 @@
     },
     "done": true
   },
-  "farmersdelight:main/craft_knife": {
+  "alexsmobs:alexsmobs/murmur": {
     "criteria": {
-      "iron_knife": "2025-03-16 02:10:14 +0000"
+      "killed_by": "2025-03-16 02:22:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-03-16 18:19:39 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2025-03-16 18:22:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-03-16 18:23:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-03-16 18:26:12 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/light_gray_concrete_slab": {
+    "criteria": {
+      "has_light_gray_concrete": "2025-03-16 18:26:21 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/gold_block_slab": {
+    "criteria": {
+      "has_gold_block": "2025-03-16 18:28:34 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/andesite": {
+    "criteria": {
+      "has_planks": "2025-03-16 18:32:03 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/cyan_glazed_terracotta_slab": {
+    "criteria": {
+      "has_cyan_glazed_terracotta": "2025-03-16 18:38:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-03-16 18:39:07 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 19:06:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 19:06:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 19:06:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 19:06:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 19:06:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 19:06:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 19:06:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 19:06:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 19:06:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 19:06:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 19:06:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-16 19:06:44 +0000"
+    },
+    "done": false
+  },
+  "new_slab_variants:recipes/building_blocks/magenta_glazed_terracotta_slab": {
+    "criteria": {
+      "has_magenta_glazed_terracotta": "2025-03-16 18:40:16 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_evoker": {
+    "criteria": {
+      "requirement": "2025-03-16 18:40:23 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-03-16 18:40:44 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2025-03-16 18:46:59 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2025-03-16 18:56:56 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-03-16 18:43:52 +0000"
     },
     "done": true
   },
