@@ -956,6 +956,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/stripped_spruce_log_slab": {
+    "criteria": {
+      "has_stripped_spruce_log": "2025-03-16 15:25:58 +0000"
+    },
+    "done": true
+  },
   "beautify:candelabras": {
     "criteria": {
       "requirement": "2025-03-16 15:04:40 +0000"
