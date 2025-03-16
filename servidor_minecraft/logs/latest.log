@@ -3030,3 +3030,21 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [16Mar2025 02:42:27.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
 [16Mar2025 02:43:00.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [andresgc_26: Set the time to 1000]
 [16Mar2025 02:44:37.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[16Mar2025 02:45:16.109] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[16Mar2025 02:45:41.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[16Mar2025 02:46:03.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 has made the advancement [Ashes 'n Bones]
+[16Mar2025 02:46:23.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Ambush]
+[16Mar2025 02:47:09.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[16Mar2025 02:47:13.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [The Secrets of Enchanting]
+[16Mar2025 02:47:39.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[16Mar2025 02:48:13.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 has reached the goal [Flowers of the Savanna]
+[16Mar2025 02:48:19.474] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carloselpillo lost connection: Disconnected
+[16Mar2025 02:48:19.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo left the game
+[16Mar2025 02:48:33.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16Mar2025 02:48:33.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[16Mar2025 02:53:11.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [andresgc_26: Set the time to 1000]
+[16Mar2025 03:01:52.804] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 lost connection: Disconnected
+[16Mar2025 03:01:52.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 left the game
+[16Mar2025 03:02:17.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16Mar2025 03:02:17.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[16Mar2025 03:03:11.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [andresgc_26: Set the time to 1000]
