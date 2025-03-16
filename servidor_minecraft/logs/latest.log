@@ -2960,3 +2960,13 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [16Mar2025 01:38:16.790] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [16Mar2025 01:38:16.790] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
 [16Mar2025 01:43:50.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[16Mar2025 01:56:24.460] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[16Mar2025 01:56:24.462] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[16Mar2025 01:56:24.468] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[16Mar2025 01:56:24.477] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[16Mar2025 01:56:24.479] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[16Mar2025 01:56:24.484] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[16Mar2025 01:56:24.485] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: andresgc_26[/127.117.166.183:49775] logged in with entity id 14437 at (-1516.1745435198388, 137.0625, -2395.935223736432)
+[16Mar2025 01:56:24.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 joined the game
+[16Mar2025 01:56:24.643] [Server thread/INFO] [Jade/]: Syncing config to andresgc_26 (c327ff56-36aa-3562-a745-182cf488efeb)
+[16Mar2025 01:59:42.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
