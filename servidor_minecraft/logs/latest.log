@@ -3003,3 +3003,11 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [16Mar2025 14:14:22.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [16Mar2025 14:14:22.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
 [16Mar2025 14:17:06.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Diamonds!]
+[16Mar2025 14:19:48.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[16Mar2025 14:21:26.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of carloselpillo) moved wrongly! 0.39116289336857335
+[16Mar2025 14:21:26.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of carloselpillo) moved wrongly! 0.8296231599263706
+[16Mar2025 14:21:26.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of carloselpillo) moved wrongly! 0.2881582602004755
+[16Mar2025 14:21:26.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of carloselpillo) moved wrongly! 0.7574350037472186
+[16Mar2025 14:22:01.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of carloselpillo) moved wrongly! 0.40743813594610856
+[16Mar2025 14:22:01.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of carloselpillo) moved wrongly! 0.6286394008709522
+[16Mar2025 14:26:19.451] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/18233, l='ServerLevel[world]', x=478.78, y=118.56, z=-1221.39] died, message: 'Unemployed was pricked to death'

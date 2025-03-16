@@ -1216,5 +1216,11 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-03-16 14:17:06 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
