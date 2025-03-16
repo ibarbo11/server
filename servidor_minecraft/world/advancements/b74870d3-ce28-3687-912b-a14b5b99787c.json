@@ -392,6 +392,7 @@
       "wythers:berry_bog": "2025-03-14 21:15:44 +0000",
       "wythers:snowy_tundra": "2025-03-14 14:39:12 +0000",
       "wythers:underground": "2025-03-14 20:41:55 +0000",
+      "wythers:mushroom_caves": "2025-03-16 02:25:52 +0000",
       "wythers:crimson_tundra": "2025-03-14 14:39:18 +0000",
       "wythers:tundra": "2025-03-14 14:37:47 +0000",
       "wythers:highlands": "2025-03-14 16:04:13 +0000",
@@ -694,6 +695,7 @@
       "minecraft:skeleton": "2025-03-14 15:27:14 +0000",
       "minecraft:spider": "2025-03-14 14:49:11 +0000",
       "minecraft:creeper": "2025-03-16 02:14:13 +0000",
+      "minecraft:stray": "2025-03-16 02:27:45 +0000",
       "minecraft:zombie": "2025-03-14 14:49:16 +0000",
       "minecraft:zombie_villager": "2025-03-15 01:19:58 +0000"
     },
@@ -1039,6 +1041,54 @@
       "quark:shiba": "2025-03-15 17:39:14 +0000"
     },
     "done": false
+  },
+  "new_slab_variants:recipes/building_blocks/deepslate_slab": {
+    "criteria": {
+      "has_deepslate": "2025-03-16 02:29:35 +0000"
+    },
+    "done": true
+  },
+  "additionaladditions:obtain_glow_stick": {
+    "criteria": {
+      "obtain": "2025-03-16 02:27:54 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/cracked_stone_bricks_slab": {
+    "criteria": {
+      "has_cracked_stone_bricks": "2025-03-16 02:27:38 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2025-03-16 02:22:37 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-03-16 02:28:09 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-03-16 02:27:45 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/glow_painting": {
+    "criteria": {
+      "has_item": "2025-03-16 02:29:27 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/red_wool_slab": {
+    "criteria": {
+      "has_red_wool": "2025-03-16 02:22:40 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

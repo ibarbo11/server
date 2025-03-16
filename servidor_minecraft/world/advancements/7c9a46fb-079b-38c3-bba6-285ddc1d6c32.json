@@ -476,6 +476,7 @@
       "wythers:snowy_tundra": "2025-03-14 14:19:22 +0000",
       "wythers:cool_plains": "2025-03-14 15:12:54 +0000",
       "wythers:underground": "2025-03-14 16:07:53 +0000",
+      "wythers:mushroom_caves": "2025-03-16 02:25:13 +0000",
       "wythers:crimson_tundra": "2025-03-14 14:18:39 +0000",
       "wythers:tundra": "2025-03-14 14:17:41 +0000",
       "wythers:highlands": "2025-03-14 14:24:32 +0000",
@@ -1221,6 +1222,12 @@
       "vinery:taiga_grapes_white": "2025-03-16 02:09:15 +0000"
     },
     "done": false
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2025-03-16 02:22:28 +0000"
+    },
+    "done": true
   },
   "beautify:candelabras": {
     "criteria": {
