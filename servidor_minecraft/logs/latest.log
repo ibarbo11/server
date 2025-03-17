@@ -5912,3 +5912,13 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [17Mar2025 22:26:39.482] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/137462, l='ServerLevel[world]', x=-2882.07, y=107.41, z=-1268.05] died: Undead Knight burned to death
 [17Mar2025 22:26:45.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to myser444]
 [17Mar2025 22:28:22.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to myser444]
+[17Mar2025 22:35:25.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to myser444]
+[17Mar2025 22:35:52.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[17Mar2025 22:35:57.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Set the weather to rain & thunder]
+[17Mar2025 22:36:05.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Sweet Dreams]
+[17Mar2025 22:36:41.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[17Mar2025 22:37:15.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joselete123> ZZZ
+[17Mar2025 22:37:25.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to joselete123]
+[17Mar2025 22:44:03.596] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: myser444 lost connection: Disconnected
+[17Mar2025 22:44:03.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 left the game
+[17Mar2025 22:50:03.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
