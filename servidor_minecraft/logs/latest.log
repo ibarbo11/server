@@ -3022,3 +3022,7 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [17Mar2025 14:06:06.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to andresgc_26]
 [17Mar2025 14:13:13.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
 [17Mar2025 14:25:00.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[17Mar2025 14:39:43.685] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/15290, l='ServerLevel[world]', x=-1662.99, y=128.41, z=-2329.10] died: Undead Knight suffocated in a wall
+[17Mar2025 14:40:24.144] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[17Mar2025 14:40:24.145] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[17Mar2025 14:40:44.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [andresgc_26: Set the time to 1000]
