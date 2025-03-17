@@ -5851,3 +5851,9 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [17Mar2025 20:42:39.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Surfer Rosa]
 [17Mar2025 20:42:45.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Surfer Rosa]
 [17Mar2025 20:44:13.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[17Mar2025 20:48:12.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[17Mar2025 20:51:03.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Teleported myser444 to joselete123]
+[17Mar2025 20:53:54.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[17Mar2025 20:55:03.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[17Mar2025 20:57:00.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Ice Cubed]
+[17Mar2025 20:57:46.573] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/86716, l='ServerLevel[world]', x=-3710.51, y=75.56, z=-2015.54] died, message: 'Mason was pricked to death'

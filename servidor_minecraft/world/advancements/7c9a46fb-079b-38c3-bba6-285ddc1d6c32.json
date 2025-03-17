@@ -514,6 +514,7 @@
       "minecraft:birch_forest": "2025-03-16 23:05:01 +0000",
       "minecraft:windswept_hills": "2025-03-14 16:02:40 +0000",
       "minecraft:beach": "2025-03-16 18:59:20 +0000",
+      "minecraft:stony_peaks": "2025-03-17 20:49:54 +0000",
       "minecraft:river": "2025-03-16 23:03:46 +0000",
       "minecraft:snowy_plains": "2025-03-14 14:33:21 +0000",
       "minecraft:stony_shore": "2025-03-14 15:02:46 +0000",
@@ -524,6 +525,7 @@
       "minecraft:deep_cold_ocean": "2025-03-16 23:00:28 +0000",
       "minecraft:windswept_forest": "2025-03-16 01:17:16 +0000",
       "minecraft:ocean": "2025-03-15 17:28:40 +0000",
+      "minecraft:jungle": "2025-03-17 20:48:13 +0000",
       "minecraft:flower_forest": "2025-03-14 14:21:01 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-16 23:05:09 +0000",
       "minecraft:meadow": "2025-03-14 14:21:03 +0000",
@@ -1688,6 +1690,12 @@
   "iceandfire:iceandfire/jar_pixie": {
     "criteria": {
       "jar": "2025-03-17 20:42:39 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/moss_block_slab": {
+    "criteria": {
+      "has_moss_block": "2025-03-17 20:49:58 +0000"
     },
     "done": true
   },
