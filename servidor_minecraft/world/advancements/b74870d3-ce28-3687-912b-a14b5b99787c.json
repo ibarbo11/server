@@ -391,6 +391,7 @@
       "wythers:snowy_fen": "2025-03-17 19:19:53 +0000",
       "wythers:thermal_taiga": "2025-03-16 22:34:45 +0000",
       "wythers:gravelly_river": "2025-03-16 22:46:54 +0000",
+      "wythers:sparse_bamboo_jungle": "2025-03-17 20:26:11 +0000",
       "wythers:thermal_taiga_crags": "2025-03-16 02:17:08 +0000",
       "wythers:boreal_forest_red": "2025-03-14 14:51:47 +0000",
       "wythers:cold_plains": "2025-03-14 21:22:10 +0000",
@@ -711,6 +712,7 @@
       "minecraft:slime": "2025-03-16 02:35:41 +0000",
       "minecraft:evoker": "2025-03-16 18:34:54 +0000",
       "minecraft:zombified_piglin": "2025-03-17 15:18:14 +0000",
+      "minecraft:witch": "2025-03-17 20:34:11 +0000",
       "minecraft:husk": "2025-03-16 22:36:26 +0000",
       "minecraft:cave_spider": "2025-03-16 02:44:56 +0000",
       "minecraft:stray": "2025-03-16 02:27:45 +0000",
@@ -740,7 +742,9 @@
       "minecraft:sunflower_plains": "2025-03-14 15:58:51 +0000",
       "minecraft:birch_forest": "2025-03-16 23:03:51 +0000",
       "minecraft:windswept_hills": "2025-03-16 15:47:30 +0000",
+      "minecraft:bamboo_jungle": "2025-03-17 20:25:28 +0000",
       "minecraft:beach": "2025-03-16 22:51:31 +0000",
+      "minecraft:dark_forest": "2025-03-17 20:32:54 +0000",
       "minecraft:river": "2025-03-16 23:03:56 +0000",
       "minecraft:snowy_plains": "2025-03-14 15:26:36 +0000",
       "minecraft:snowy_taiga": "2025-03-16 14:57:26 +0000",
@@ -751,6 +755,7 @@
       "minecraft:forest": "2025-03-14 14:53:00 +0000",
       "minecraft:deep_cold_ocean": "2025-03-16 23:00:33 +0000",
       "minecraft:ocean": "2025-03-16 23:02:43 +0000",
+      "minecraft:jungle": "2025-03-17 20:46:03 +0000",
       "minecraft:flower_forest": "2025-03-15 17:15:42 +0000",
       "minecraft:frozen_peaks": "2025-03-14 16:05:01 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-17 14:50:19 +0000",
@@ -1579,9 +1584,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2025-03-17 20:28:47 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragonbone_tool": {
     "criteria": {
       "tool": "2025-03-17 19:40:49 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/jungle_log_slab": {
+    "criteria": {
+      "has_jungle_log": "2025-03-17 20:27:51 +0000"
     },
     "done": true
   },
@@ -1597,9 +1614,27 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/jungle": {
+    "criteria": {
+      "has_planks": "2025-03-17 20:27:51 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/crimson": {
     "criteria": {
       "has_planks": "2025-03-17 19:35:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/jar_pixie": {
+    "criteria": {
+      "jar": "2025-03-17 20:42:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-17 20:33:44 +0000"
     },
     "done": true
   },

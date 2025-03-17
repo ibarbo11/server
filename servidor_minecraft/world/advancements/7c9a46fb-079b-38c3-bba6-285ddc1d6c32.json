@@ -1619,82 +1619,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
-      "log_spam_fixer": "2025-03-17 20:18:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-17 20:18:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-17 20:18:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-03-17 20:19:06 +0000",
-      "log_spam_fixer": "2025-03-17 20:18:30 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-17 20:18:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-17 20:18:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-17 20:18:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-17 20:18:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-17 20:18:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-17 20:18:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-17 20:18:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-17 20:18:30 +0000"
-    },
-    "done": false
-  },
-  "new_slab_variants:recipes/building_blocks/dark_oak_wood_slab": {
-    "criteria": {
-      "has_dark_oak_wood": "2025-03-17 20:16:58 +0000"
+      "killed_ice_dragon": "2025-03-17 19:21:38 +0000"
     },
     "done": true
   },
@@ -1704,27 +1631,21 @@
     },
     "done": true
   },
+  "trashcans:trash_can": {
+    "criteria": {
+      "has_item_trash_can": "2025-03-17 19:24:53 +0000"
+    },
+    "done": true
+  },
+  "trashcans:ultimate_trash_can": {
+    "criteria": {
+      "has_ultimate_trash_can": "2025-03-17 19:29:11 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:warp_scroll": {
     "criteria": {
       "has_warp_scroll": "2025-03-17 19:34:27 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/stripped_dark_oak_log_slab": {
-    "criteria": {
-      "has_stripped_dark_oak_log": "2025-03-17 20:17:46 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_if_dragon": {
-    "criteria": {
-      "killed_ice_dragon": "2025-03-17 19:21:38 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/dark_oak": {
-    "criteria": {
-      "has_planks": "2025-03-17 20:16:57 +0000"
     },
     "done": true
   },
@@ -1734,15 +1655,9 @@
     },
     "done": true
   },
-  "new_slab_variants:recipes/building_blocks/stripped_dark_oak_wood_slab": {
+  "mcwroofs:recipes/dark_oak": {
     "criteria": {
-      "has_stripped_dark_oak_wood": "2025-03-17 20:18:02 +0000"
-    },
-    "done": true
-  },
-  "trashcans:trash_can": {
-    "criteria": {
-      "has_item_trash_can": "2025-03-17 19:24:53 +0000"
+      "has_planks": "2025-03-17 20:16:57 +0000"
     },
     "done": true
   },
@@ -1752,9 +1667,27 @@
     },
     "done": true
   },
-  "trashcans:ultimate_trash_can": {
+  "new_slab_variants:recipes/building_blocks/dark_oak_wood_slab": {
     "criteria": {
-      "has_ultimate_trash_can": "2025-03-17 19:29:11 +0000"
+      "has_dark_oak_wood": "2025-03-17 20:16:58 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/stripped_dark_oak_log_slab": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2025-03-17 20:17:46 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/stripped_dark_oak_wood_slab": {
+    "criteria": {
+      "has_stripped_dark_oak_wood": "2025-03-17 20:18:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/jar_pixie": {
+    "criteria": {
+      "jar": "2025-03-17 20:42:39 +0000"
     },
     "done": true
   },

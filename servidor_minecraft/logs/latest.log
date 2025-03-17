@@ -5823,3 +5823,31 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [17Mar2025 20:23:48.614] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sally the Lame'/58284, l='ServerLevel[world]', x=-2833.71, y=77.00, z=-1238.51] died: Sally the Lame was slain by myser444
 [17Mar2025 20:23:49.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has completed the challenge [He Wasn't So Strong]
 [17Mar2025 20:24:44.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[17Mar2025 20:27:56.790] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[17Mar2025 20:27:56.792] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[17Mar2025 20:27:56.795] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[17Mar2025 20:27:56.801] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[17Mar2025 20:27:56.802] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[17Mar2025 20:27:56.805] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[17Mar2025 20:27:56.805] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joselete123[/127.42.18.165:57079] logged in with entity id 62295 at (-4034.7262664813547, 72.0, -2568.300000011921)
+[17Mar2025 20:27:56.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 joined the game
+[17Mar2025 20:27:56.890] [Server thread/INFO] [Jade/]: Syncing config to joselete123 (7c9a46fb-079b-38c3-bba6-285ddc1d6c32)
+[17Mar2025 20:28:47.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Ant Farm]
+[17Mar2025 20:31:53.605] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 lost connection: Disconnected
+[17Mar2025 20:31:53.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 left the game
+[17Mar2025 20:32:03.488] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[17Mar2025 20:32:03.489] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[17Mar2025 20:32:03.492] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[17Mar2025 20:32:03.498] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[17Mar2025 20:32:03.499] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[17Mar2025 20:32:03.502] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[17Mar2025 20:32:03.502] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joselete123[/127.42.18.165:46335] logged in with entity id 66692 at (-4036.266218730314, 74.0, -2579.3846245338973)
+[17Mar2025 20:32:03.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 joined the game
+[17Mar2025 20:32:03.580] [Server thread/INFO] [Jade/]: Syncing config to joselete123 (7c9a46fb-079b-38c3-bba6-285ddc1d6c32)
+[17Mar2025 20:33:44.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [They Have a Cave Troll!]
+[17Mar2025 20:34:32.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[17Mar2025 20:41:48.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[17Mar2025 20:42:31.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[17Mar2025 20:42:39.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Surfer Rosa]
+[17Mar2025 20:42:45.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Surfer Rosa]
+[17Mar2025 20:44:13.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
