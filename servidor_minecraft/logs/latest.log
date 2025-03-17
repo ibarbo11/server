@@ -5716,3 +5716,54 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [17Mar2025 19:33:38.668] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
 [17Mar2025 19:34:18.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
 [17Mar2025 19:34:27.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Warped]
+[17Mar2025 19:35:25.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[17Mar2025 19:35:25.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Radioactive]
+[17Mar2025 19:35:33.218] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/14291, l='ServerLevel[world]', x=-550.48, y=33.00, z=-344.96] died: Toxic Slime was slain by carloselpillo
+[17Mar2025 19:35:33.224] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/14334, l='ServerLevel[world]', x=-547.74, y=32.00, z=-342.47] died: Toxic Slime was slain by carloselpillo
+[17Mar2025 19:35:35.771] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/14299, l='ServerLevel[world]', x=-541.26, y=35.00, z=-343.80] died: Toxic Slime was slain by carloselpillo
+[17Mar2025 19:35:41.426] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/14354, l='ServerLevel[world]', x=-509.99, y=-20.00, z=-399.26] died: Toxic Slime was killed
+[17Mar2025 19:35:45.427] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/14404, l='ServerLevel[world]', x=-588.83, y=-20.00, z=-266.37] died: Toxic Slime was killed
+[17Mar2025 19:35:46.425] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/14301, l='ServerLevel[world]', x=-487.88, y=-20.00, z=-357.14] died: Toxic Slime was killed
+[17Mar2025 19:35:46.427] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/14408, l='ServerLevel[world]', x=-451.94, y=-20.00, z=-305.75] died: Toxic Slime was killed
+[17Mar2025 19:35:51.426] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/14355, l='ServerLevel[world]', x=-464.21, y=-20.00, z=-330.54] died: Toxic Slime was killed
+[17Mar2025 19:36:06.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[17Mar2025 19:36:17.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Toxic Personality]
+[17Mar2025 19:36:24.427] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/14300, l='ServerLevel[world]', x=-509.83, y=-20.00, z=-371.82] died: Toxic Slime was killed
+[17Mar2025 19:36:25.051] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[17Mar2025 19:36:25.052] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[17Mar2025 19:36:25.056] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[17Mar2025 19:36:25.063] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[17Mar2025 19:36:25.064] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[17Mar2025 19:36:25.068] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[17Mar2025 19:36:25.069] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: andresgc_26[/127.117.166.183:48751] logged in with entity id 14920 at (-1555.6520852151775, 127.0, -2424.917433962201)
+[17Mar2025 19:36:25.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 joined the game
+[17Mar2025 19:36:25.155] [Server thread/INFO] [Jade/]: Syncing config to andresgc_26 (c327ff56-36aa-3562-a745-182cf488efeb)
+[17Mar2025 19:36:25.844] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/14402, l='ServerLevel[world]', x=-474.02, y=-20.00, z=-409.77] died: Toxic Slime was killed
+[17Mar2025 19:36:32.520] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/14341, l='ServerLevel[world]', x=-511.45, y=37.00, z=-353.74] died: Toxic Slime was slain by carloselpillo
+[17Mar2025 19:36:41.427] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/14360, l='ServerLevel[world]', x=-465.26, y=-20.00, z=-301.74] died: Toxic Slime was killed
+[17Mar2025 19:37:11.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[17Mar2025 19:37:12.599] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/14292, l='ServerLevel[world]', x=-500.84, y=-20.00, z=-378.68] died: Toxic Slime was killed
+[17Mar2025 19:37:15.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Those Were the Days]
+[17Mar2025 19:37:33.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[17Mar2025 19:37:43.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[17Mar2025 19:37:50.426] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/14400, l='ServerLevel[world]', x=-543.57, y=-20.00, z=-320.62] died: Toxic Slime was killed
+[17Mar2025 19:37:52.427] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/14445, l='ServerLevel[world]', x=-470.84, y=-20.00, z=-365.18] died: Toxic Slime was killed
+[17Mar2025 19:38:03.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[17Mar2025 19:38:37.427] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/14832, l='ServerLevel[world]', x=-456.73, y=-20.00, z=-347.56] died: Toxic Slime was killed
+[17Mar2025 19:39:01.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[17Mar2025 19:39:04.427] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/15353, l='ServerLevel[world]', x=-465.26, y=-20.00, z=-301.74] died: Toxic Slime was killed
+[17Mar2025 19:39:05.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [War Pigs]
+[17Mar2025 19:39:12.427] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/15419, l='ServerLevel[world]', x=-406.70, y=-20.00, z=-261.01] died: Toxic Slime was killed
+[17Mar2025 19:39:12.428] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/15420, l='ServerLevel[world]', x=-422.38, y=-20.00, z=-266.26] died: Toxic Slime was killed
+[17Mar2025 19:39:21.426] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/15480, l='ServerLevel[world]', x=-501.87, y=-20.00, z=-366.80] died: Toxic Slime was killed
+[17Mar2025 19:39:39.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[17Mar2025 19:39:41.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 burned to death
+[17Mar2025 19:39:41.375] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[17Mar2025 19:39:52.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[17Mar2025 19:39:53.479] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/16048, l='ServerLevel[world]', x=-566.71, y=-20.00, z=-272.82] died: Toxic Slime was killed
+[17Mar2025 19:39:53.480] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/16049, l='ServerLevel[world]', x=-554.77, y=-20.00, z=-280.22] died: Toxic Slime was killed
+[17Mar2025 19:39:56.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[17Mar2025 19:40:20.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[17Mar2025 19:40:49.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Splintering II]
+[17Mar2025 19:42:17.943] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/18210, l='ServerLevel[world]', x=283.59, y=126.25, z=-538.58] died: Honeyed Archer suffocated in a wall
+[17Mar2025 19:44:21.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]

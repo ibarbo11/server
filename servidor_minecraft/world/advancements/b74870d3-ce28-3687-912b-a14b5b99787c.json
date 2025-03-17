@@ -700,8 +700,10 @@
     "criteria": {
       "minecraft:pillager": "2025-03-16 02:46:23 +0000",
       "minecraft:skeleton": "2025-03-14 15:27:14 +0000",
+      "minecraft:hoglin": "2025-03-17 19:35:37 +0000",
       "minecraft:vindicator": "2025-03-16 18:24:30 +0000",
       "minecraft:spider": "2025-03-14 14:49:11 +0000",
+      "minecraft:piglin_brute": "2025-03-17 19:38:46 +0000",
       "minecraft:creeper": "2025-03-16 02:14:13 +0000",
       "minecraft:slime": "2025-03-16 02:35:41 +0000",
       "minecraft:evoker": "2025-03-16 18:34:54 +0000",
@@ -1521,6 +1523,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-03-17 19:35:30 +0000",
       "minecraft:nether_wastes": "2025-03-17 15:15:30 +0000"
     },
     "done": false
@@ -1573,11 +1576,71 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-03-17 19:40:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-03-17 19:32:49 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/nether_wart_block_slab": {
+    "criteria": {
+      "has_nether_wart_block": "2025-03-17 19:35:52 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/crimson": {
+    "criteria": {
+      "has_planks": "2025-03-17 19:35:51 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/root": {
+    "criteria": {
+      "requirement": "2025-03-17 19:35:25 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_stymphalian_bird": {
     "criteria": {
       "killed_fire_dragon": "2025-03-17 19:06:53 +0000"
     },
     "done": true
+  },
+  "incendium:toxic_heap/slime_poison": {
+    "criteria": {
+      "poison": "2025-03-17 19:36:17 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/slime_block_slab": {
+    "criteria": {
+      "has_slime_block": "2025-03-17 19:36:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2025-03-17 19:39:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-03-17 19:37:15 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:toxic_heap": "2025-03-17 19:35:25 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
