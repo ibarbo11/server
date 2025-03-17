@@ -464,6 +464,7 @@
   "wythers:world_explorer": {
     "criteria": {
       "wythers:autumnal_flower_forest": "2025-03-14 14:21:20 +0000",
+      "wythers:sakura_forest": "2025-03-17 19:51:24 +0000",
       "wythers:boreal_forest_yellow": "2025-03-14 14:28:28 +0000",
       "wythers:marsh": "2025-03-14 16:17:02 +0000",
       "wythers:snowy_fen": "2025-03-17 19:19:57 +0000",
@@ -480,6 +481,7 @@
       "wythers:cool_plains": "2025-03-14 15:12:54 +0000",
       "wythers:underground": "2025-03-14 16:07:53 +0000",
       "wythers:mushroom_caves": "2025-03-16 02:25:13 +0000",
+      "wythers:ancient_moss_forest": "2025-03-17 19:51:57 +0000",
       "wythers:crimson_tundra": "2025-03-14 14:18:39 +0000",
       "wythers:tundra": "2025-03-14 14:17:41 +0000",
       "wythers:highlands": "2025-03-14 14:24:32 +0000",
@@ -1617,12 +1619,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-03-17 19:42:27 +0000"
-    },
-    "done": false
-  },
   "iceandfire:iceandfire/dragonbone_flaming_sword": {
     "criteria": {
       "sword": "2025-03-17 19:22:59 +0000"
@@ -1638,6 +1634,12 @@
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
       "killed_ice_dragon": "2025-03-17 19:21:38 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/cracked_stone_bricks_slab": {
+    "criteria": {
+      "has_cracked_stone_bricks": "2025-03-17 19:50:21 +0000"
     },
     "done": true
   },

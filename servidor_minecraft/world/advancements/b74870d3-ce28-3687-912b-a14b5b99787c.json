@@ -385,6 +385,7 @@
   },
   "wythers:world_explorer": {
     "criteria": {
+      "wythers:sakura_forest": "2025-03-17 19:51:26 +0000",
       "wythers:boreal_forest_yellow": "2025-03-16 18:23:05 +0000",
       "wythers:snowy_peaks": "2025-03-14 16:04:58 +0000",
       "wythers:snowy_fen": "2025-03-17 19:19:53 +0000",
@@ -397,12 +398,14 @@
       "wythers:snowy_tundra": "2025-03-14 14:39:12 +0000",
       "wythers:underground": "2025-03-14 20:41:55 +0000",
       "wythers:mushroom_caves": "2025-03-16 02:25:52 +0000",
+      "wythers:ancient_moss_forest": "2025-03-17 19:51:57 +0000",
       "wythers:crimson_tundra": "2025-03-14 14:39:18 +0000",
       "wythers:tundra": "2025-03-14 14:37:47 +0000",
       "wythers:highlands": "2025-03-14 16:04:13 +0000",
       "wythers:deep_underground": "2025-03-14 20:44:58 +0000",
       "wythers:fen": "2025-03-14 15:21:20 +0000",
-      "wythers:cool_forest": "2025-03-16 22:47:29 +0000"
+      "wythers:cool_forest": "2025-03-16 22:47:29 +0000",
+      "wythers:sand_dunes": "2025-03-17 19:45:54 +0000"
     },
     "done": false
   },

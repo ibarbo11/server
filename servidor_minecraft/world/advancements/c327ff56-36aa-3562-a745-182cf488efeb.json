@@ -1125,6 +1125,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-03-17 19:48:40 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/ladder_slab": {
     "criteria": {
       "has_ladder": "2025-03-17 19:40:13 +0000"
