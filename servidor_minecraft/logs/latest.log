@@ -5893,3 +5893,8 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [17Mar2025 21:34:39.466] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [17Mar2025 21:41:50.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
 [17Mar2025 21:52:02.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[17Mar2025 22:01:43.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Set the time to 13000]
+[17Mar2025 22:02:32.247] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/122601, l='ServerLevel[world]', x=-2823.08, y=82.50, z=-1220.85] died, message: 'Unemployed was shot by myser444'
+[17Mar2025 22:02:57.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to myser444]
+[17Mar2025 22:04:24.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Set the time to 1000]
+[17Mar2025 22:06:41.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to myser444]
