@@ -1231,6 +1231,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-03-17 20:22:30 +0000"
+    },
+    "done": false
+  },
   "new_slab_variants:recipes/building_blocks/glass_slab": {
     "criteria": {
       "has_glass": "2025-03-17 20:08:53 +0000"
