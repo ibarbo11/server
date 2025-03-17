@@ -5875,3 +5875,5 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [17Mar2025 21:10:30.361] [Server thread/INFO] [Jade/]: Syncing config to joselete123 (7c9a46fb-079b-38c3-bba6-285ddc1d6c32)
 [17Mar2025 21:10:46.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
 [17Mar2025 21:14:10.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has reached the goal [When the Stew is Sus]
+[17Mar2025 21:20:06.308] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 lost connection: Disconnected
+[17Mar2025 21:20:06.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 left the game
