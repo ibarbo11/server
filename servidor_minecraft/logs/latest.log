@@ -5924,3 +5924,19 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [17Mar2025 22:50:03.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
 [17Mar2025 22:55:52.570] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
 [17Mar2025 23:25:16.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[17Mar2025 23:34:16.875] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[17Mar2025 23:34:16.876] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[17Mar2025 23:34:16.879] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[17Mar2025 23:34:16.885] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[17Mar2025 23:34:16.886] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[17Mar2025 23:34:16.888] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[17Mar2025 23:34:16.888] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: carloselpillo[/127.181.160.16:34181] logged in with entity id 162897 at (-4111.997252370463, 75.0, -2640.8015180086027)
+[17Mar2025 23:34:16.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo joined the game
+[17Mar2025 23:34:17.006] [Server thread/INFO] [Jade/]: Syncing config to carloselpillo (b74870d3-ce28-3687-912b-a14b5b99787c)
+[17Mar2025 23:35:00.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[17Mar2025 23:38:01.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[17Mar2025 23:38:42.749] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[17Mar2025 23:39:42.736] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[17Mar2025 23:40:42.737] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[17Mar2025 23:41:42.736] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[17Mar2025 23:42:42.737] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
