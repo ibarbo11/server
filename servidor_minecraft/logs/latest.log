@@ -3017,3 +3017,6 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [17Mar2025 13:56:53.027] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
 [17Mar2025 14:00:08.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Sweet Dreams]
 [17Mar2025 14:00:10.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joselete123> zzz
+[17Mar2025 14:01:30.410] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/2839, l='ServerLevel[world]', x=-1435.34, y=132.10, z=-2296.65] died: Honeyed Archer was slain by joselete123
+[17Mar2025 14:03:39.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Gamerule keepInventory is now set to: false]
+[17Mar2025 14:06:06.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to andresgc_26]
