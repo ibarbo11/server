@@ -5877,3 +5877,17 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [17Mar2025 21:14:10.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has reached the goal [When the Stew is Sus]
 [17Mar2025 21:20:06.308] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 lost connection: Disconnected
 [17Mar2025 21:20:06.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 left the game
+[17Mar2025 21:29:28.785] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[17Mar2025 21:29:28.787] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[17Mar2025 21:29:28.789] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[17Mar2025 21:29:28.795] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[17Mar2025 21:29:28.796] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[17Mar2025 21:29:28.798] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[17Mar2025 21:29:28.799] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joselete123[/127.42.18.165:39461] logged in with entity id 105812 at (-4034.461931949236, 73.0, -2568.937101744933)
+[17Mar2025 21:29:28.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 joined the game
+[17Mar2025 21:29:28.880] [Server thread/INFO] [Jade/]: Syncing config to joselete123 (7c9a46fb-079b-38c3-bba6-285ddc1d6c32)
+[17Mar2025 21:30:22.963] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4408, y=92, z=-2473} BlockPos{x=-4408, y=91, z=-2474}
+[17Mar2025 21:33:51.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[17Mar2025 21:34:39.348] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carloselpillo lost connection: Disconnected
+[17Mar2025 21:34:39.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo left the game
+[17Mar2025 21:34:39.466] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
