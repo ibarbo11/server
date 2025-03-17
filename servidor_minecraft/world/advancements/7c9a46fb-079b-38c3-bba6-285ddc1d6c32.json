@@ -1699,5 +1699,11 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/scaffolding_slab": {
+    "criteria": {
+      "has_scaffolding": "2025-03-17 20:59:46 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

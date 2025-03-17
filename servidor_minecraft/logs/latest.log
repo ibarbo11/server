@@ -5857,3 +5857,21 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [17Mar2025 20:55:03.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
 [17Mar2025 20:57:00.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Ice Cubed]
 [17Mar2025 20:57:46.573] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/86716, l='ServerLevel[world]', x=-3710.51, y=75.56, z=-2015.54] died, message: 'Mason was pricked to death'
+[17Mar2025 20:58:09.945] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/86729, l='ServerLevel[world]', x=-3730.54, y=83.50, z=-1976.97] died, message: 'Unemployed hit the ground too hard'
+[17Mar2025 20:58:30.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the weather to clear]
+[17Mar2025 20:58:31.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[17Mar2025 21:00:40.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[17Mar2025 21:03:38.412] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 lost connection: Disconnected
+[17Mar2025 21:03:38.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 left the game
+[17Mar2025 21:09:15.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Here Comes Your Man]
+[17Mar2025 21:10:30.280] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[17Mar2025 21:10:30.281] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[17Mar2025 21:10:30.284] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[17Mar2025 21:10:30.289] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[17Mar2025 21:10:30.290] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[17Mar2025 21:10:30.293] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[17Mar2025 21:10:30.293] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joselete123[/127.42.18.165:35245] logged in with entity id 97474 at (-4032.097474853362, 78.0, -2578.6407585624956)
+[17Mar2025 21:10:30.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 joined the game
+[17Mar2025 21:10:30.361] [Server thread/INFO] [Jade/]: Syncing config to joselete123 (7c9a46fb-079b-38c3-bba6-285ddc1d6c32)
+[17Mar2025 21:10:46.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[17Mar2025 21:14:10.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has reached the goal [When the Stew is Sus]

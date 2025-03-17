@@ -690,6 +690,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-03-16 02:46:30 +0000",
+      "suspicious_stew": "2025-03-17 21:14:10 +0000",
       "carrot": "2025-03-14 14:46:08 +0000"
     },
     "done": false
@@ -1609,6 +1610,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/tame_pixie": {
+    "criteria": {
+      "tame_rat": "2025-03-17 21:09:15 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/nether_wart_block_slab": {
     "criteria": {
       "has_nether_wart_block": "2025-03-17 19:35:52 +0000"
@@ -1624,6 +1631,12 @@
   "mcwroofs:recipes/crimson": {
     "criteria": {
       "has_planks": "2025-03-17 19:35:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:husbandry/sus_stew": {
+    "criteria": {
+      "stew": "2025-03-17 21:14:10 +0000"
     },
     "done": true
   },
