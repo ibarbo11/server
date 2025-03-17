@@ -478,6 +478,7 @@
       "wythers:deep_underground": "2025-03-14 17:00:02 +0000",
       "wythers:fen": "2025-03-14 15:44:50 +0000",
       "wythers:temperate_island": "2025-03-16 17:22:03 +0000",
+      "wythers:sand_dunes": "2025-03-17 22:17:11 +0000",
       "wythers:mediterranean_island": "2025-03-16 17:21:25 +0000"
     },
     "done": false
@@ -716,6 +717,7 @@
       "minecraft:slime": "2025-03-14 16:41:37 +0000",
       "minecraft:witch": "2025-03-14 16:20:06 +0000",
       "minecraft:husk": "2025-03-14 16:38:28 +0000",
+      "minecraft:enderman": "2025-03-17 22:08:47 +0000",
       "minecraft:vex": "2025-03-16 18:37:29 +0000",
       "minecraft:zombie": "2025-03-14 16:02:59 +0000",
       "minecraft:zombie_villager": "2025-03-14 16:27:26 +0000"
@@ -1233,9 +1235,21 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-03-17 22:17:15 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/moss_block_slab": {
     "criteria": {
       "has_moss_block": "2025-03-17 20:52:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-03-17 22:13:11 +0000"
     },
     "done": true
   },

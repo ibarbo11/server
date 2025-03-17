@@ -5898,3 +5898,12 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [17Mar2025 22:02:57.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to myser444]
 [17Mar2025 22:04:24.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Set the time to 1000]
 [17Mar2025 22:06:41.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to myser444]
+[17Mar2025 22:10:47.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [myser444: Set the time to 13000]
+[17Mar2025 22:11:48.881] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[17Mar2025 22:11:48.882] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[17Mar2025 22:12:58.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Bonfire Lit]
+[17Mar2025 22:13:11.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has reached the goal [Bone Crusher]
+[17Mar2025 22:17:15.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 has made the advancement [Hot Stuff]
+[17Mar2025 22:19:44.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 was slain by Iron Golem
+[17Mar2025 22:19:44.872] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
+[17Mar2025 22:19:52.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 13000]
