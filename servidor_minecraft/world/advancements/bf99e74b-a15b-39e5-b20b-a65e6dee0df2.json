@@ -1233,12 +1233,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-03-17 21:47:30 +0000"
-    },
-    "done": false
-  },
   "new_slab_variants:recipes/building_blocks/moss_block_slab": {
     "criteria": {
       "has_moss_block": "2025-03-17 20:52:58 +0000"
@@ -1254,6 +1248,12 @@
   "apotheosis:affix/boss": {
     "criteria": {
       "sword": "2025-03-17 20:23:49 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/graffiti": {
+    "criteria": {
+      "has_item": "2025-03-17 21:55:24 +0000"
     },
     "done": true
   },
