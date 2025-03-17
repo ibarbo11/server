@@ -466,6 +466,7 @@
       "wythers:autumnal_flower_forest": "2025-03-14 14:21:20 +0000",
       "wythers:boreal_forest_yellow": "2025-03-14 14:28:28 +0000",
       "wythers:marsh": "2025-03-14 16:17:02 +0000",
+      "wythers:snowy_fen": "2025-03-17 19:19:57 +0000",
       "wythers:thermal_taiga": "2025-03-14 16:22:57 +0000",
       "wythers:gravelly_river": "2025-03-16 22:45:52 +0000",
       "wythers:gravelly_beach": "2025-03-14 15:12:27 +0000",
@@ -1613,6 +1614,84 @@
   "incendium:toxic_heap/slime_poison": {
     "criteria": {
       "poison": "2025-03-17 16:23:54 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-17 19:22:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-17 19:22:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-17 19:22:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-17 19:22:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-17 19:22:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-17 19:22:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-17 19:22:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-17 19:22:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-17 19:22:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-17 19:22:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-17 19:22:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-17 19:22:26 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_ice_dragon": "2025-03-17 19:21:38 +0000"
     },
     "done": true
   },

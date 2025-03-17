@@ -387,6 +387,7 @@
     "criteria": {
       "wythers:boreal_forest_yellow": "2025-03-16 18:23:05 +0000",
       "wythers:snowy_peaks": "2025-03-14 16:04:58 +0000",
+      "wythers:snowy_fen": "2025-03-17 19:19:53 +0000",
       "wythers:thermal_taiga": "2025-03-16 22:34:45 +0000",
       "wythers:gravelly_river": "2025-03-16 22:46:54 +0000",
       "wythers:thermal_taiga_crags": "2025-03-16 02:17:08 +0000",
@@ -852,6 +853,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sweet_berries": "2025-03-17 19:15:37 +0000",
       "potato": "2025-03-14 15:41:28 +0000",
       "carrot": "2025-03-14 15:38:49 +0000"
     },
@@ -1568,6 +1570,12 @@
   "candlelight:main/find_wild_crops": {
     "criteria": {
       "tomato_seeds": "2025-03-17 16:35:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-17 19:06:53 +0000"
     },
     "done": true
   },

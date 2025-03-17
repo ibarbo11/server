@@ -5672,3 +5672,24 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [17Mar2025 19:02:50.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
 [17Mar2025 19:03:10.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
 [17Mar2025 19:04:05.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[17Mar2025 19:06:27.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[17Mar2025 19:06:53.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Herc was on a Roll!]
+[17Mar2025 19:07:36.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[17Mar2025 19:16:01.949] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Rebecca the Errant'/6064, l='ServerLevel[world]', x=-1447.14, y=126.31, z=-2411.80] died: Rebecca the Errant was slain by carloselpillo
+[17Mar2025 19:16:16.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[17Mar2025 19:17:25.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[17Mar2025 19:17:38.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[17Mar2025 19:17:42.774] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/6879, l='ServerLevel[world]', x=-1437.00, y=89.56, z=-2677.58] died, message: 'Mason was pricked to death'
+[17Mar2025 19:18:37.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 was doomed to fall by carloselpillo
+[17Mar2025 19:18:37.617] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[17Mar2025 19:18:37.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joselete123> -
+[17Mar2025 19:19:11.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[17Mar2025 19:20:27.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 was slain by Ice Dragon
+[17Mar2025 19:20:27.141] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[17Mar2025 19:20:59.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo was frozen by Ice Dragon
+[17Mar2025 19:20:59.116] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[17Mar2025 19:21:03.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 was slain by Ice Dragon
+[17Mar2025 19:21:03.133] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[17Mar2025 19:21:38.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Dragonslayer]
+[17Mar2025 19:22:59.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [A Flaming Sword]
+[17Mar2025 19:23:18.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
