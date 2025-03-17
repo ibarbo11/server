@@ -5693,3 +5693,26 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [17Mar2025 19:21:38.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Dragonslayer]
 [17Mar2025 19:22:59.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [A Flaming Sword]
 [17Mar2025 19:23:18.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to carloselpillo]
+[17Mar2025 19:24:53.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Don't forget to recycle]
+[17Mar2025 19:26:03.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[17Mar2025 19:26:03.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[17Mar2025 19:29:11.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [The Ultimate Trash Can]
+[17Mar2025 19:32:07.686] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[17Mar2025 19:32:07.688] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[17Mar2025 19:32:07.693] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[17Mar2025 19:32:07.704] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[17Mar2025 19:32:07.707] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[17Mar2025 19:32:07.713] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[17Mar2025 19:32:07.713] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: myser444[/127.148.57.27:33255] logged in with entity id 12391 at (-2847.4855607817517, 75.0, -1204.4953094178813)
+[17Mar2025 19:32:07.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 joined the game
+[17Mar2025 19:32:07.797] [Server thread/INFO] [Jade/]: Syncing config to myser444 (bf99e74b-a15b-39e5-b20b-a65e6dee0df2)
+[17Mar2025 19:32:28.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the weather to clear]
+[17Mar2025 19:32:49.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [A Flaming Sword]
+[17Mar2025 19:33:00.500] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [rechiseled:main] rejected their client side version number
+[17Mar2025 19:33:00.500] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[17Mar2025 19:33:00.504] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@72daab55[id=<null>,name=andresgc_26,properties={},legacy=false] (/127.117.166.183:40667) lost connection: Connection closed - mismatched mod channel list
+[17Mar2025 19:33:31.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[17Mar2025 19:33:37.455] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[17Mar2025 19:33:38.668] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[17Mar2025 19:34:18.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[17Mar2025 19:34:27.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Warped]
