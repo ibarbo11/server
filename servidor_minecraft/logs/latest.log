@@ -5922,3 +5922,4 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [17Mar2025 22:44:03.596] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: myser444 lost connection: Disconnected
 [17Mar2025 22:44:03.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 left the game
 [17Mar2025 22:50:03.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[17Mar2025 22:55:52.570] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks

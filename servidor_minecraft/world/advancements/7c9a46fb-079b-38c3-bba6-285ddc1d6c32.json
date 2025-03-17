@@ -1708,6 +1708,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-03-17 22:57:30 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:main/place_campfire": {
     "criteria": {
       "campfire": "2025-03-17 22:12:58 +0000"
