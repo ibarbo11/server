@@ -5907,3 +5907,8 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [17Mar2025 22:19:44.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: myser444 was slain by Iron Golem
 [17Mar2025 22:19:44.872] [Server thread/INFO] [tombstone/]: The player myser444 has successfully been saved
 [17Mar2025 22:19:52.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 13000]
+[17Mar2025 22:25:22.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to myser444]
+[17Mar2025 22:26:34.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[17Mar2025 22:26:39.482] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/137462, l='ServerLevel[world]', x=-2882.07, y=107.41, z=-1268.05] died: Undead Knight burned to death
+[17Mar2025 22:26:45.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to myser444]
+[17Mar2025 22:28:22.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to myser444]
