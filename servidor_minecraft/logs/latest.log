@@ -5776,3 +5776,37 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [17Mar2025 19:51:22.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
 [17Mar2025 19:51:53.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
 [17Mar2025 19:55:44.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[17Mar2025 19:56:43.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 6000]
+[17Mar2025 19:57:12.566] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[17Mar2025 19:57:12.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 has made the advancement [Incendium]
+[17Mar2025 19:57:12.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 has made the advancement [We Need to Go Deeper]
+[17Mar2025 19:58:12.415] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Earthor the Lame'/34503, l='ServerLevel[world]', x=-243.72, y=89.00, z=-207.30] died: Earthor the Lame was slain by Zombified Piglin
+[17Mar2025 19:59:25.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[17Mar2025 19:59:25.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[17Mar2025 20:01:25.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joselete123> q susto cabron
+[17Mar2025 20:01:39.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <andresgc_26> pq estaba mi spawner reventao
+[17Mar2025 20:01:52.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <andresgc_26> y la casa del seper
+[17Mar2025 20:01:59.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joselete123> nose
+[17Mar2025 20:02:03.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <myser444> tp rapido
+[17Mar2025 20:02:27.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[17Mar2025 20:04:14.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[17Mar2025 20:04:21.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Teleported joselete123 to myser444]
+[17Mar2025 20:04:21.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[17Mar2025 20:05:34.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[17Mar2025 20:09:29.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <andresgc_26> carlo
+[17Mar2025 20:09:37.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <andresgc_26> tengo un regalo de cortesia
+[17Mar2025 20:09:40.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <carloselpillo> voy
+[17Mar2025 20:09:45.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to andresgc_26]
+[17Mar2025 20:09:51.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <carloselpillo> ty
+[17Mar2025 20:09:56.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <carloselpillo> toma
+[17Mar2025 20:09:56.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <andresgc_26> te quiero
+[17Mar2025 20:10:04.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <carloselpillo> guardalo bien
+[17Mar2025 20:10:09.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <andresgc_26> vale
+[17Mar2025 20:10:10.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <carloselpillo> es para hacerte esta espada
+[17Mar2025 20:10:15.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 has made the advancement [A Flaming Sword]
+[17Mar2025 20:10:26.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <andresgc_26> duro
+[17Mar2025 20:10:49.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <myser444> que estas escuchando en espoti
+[17Mar2025 20:11:51.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[17Mar2025 20:12:16.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[17Mar2025 20:13:48.041] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: andresgc_26 lost connection: Disconnected
+[17Mar2025 20:13:48.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andresgc_26 left the game

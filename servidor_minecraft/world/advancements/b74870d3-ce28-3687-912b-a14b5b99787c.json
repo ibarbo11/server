@@ -1621,6 +1621,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/glass_slab": {
+    "criteria": {
+      "has_glass": "2025-03-17 20:03:43 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/slime_block_slab": {
     "criteria": {
       "has_slime_block": "2025-03-17 19:36:39 +0000"
@@ -1630,6 +1636,12 @@
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_treasure": "2025-03-17 19:39:05 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/barred_glass": {
+    "criteria": {
+      "has_item": "2025-03-17 20:03:43 +0000"
     },
     "done": true
   },
