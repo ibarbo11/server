@@ -3026,3 +3026,63 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [17Mar2025 14:40:24.144] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [17Mar2025 14:40:24.145] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
 [17Mar2025 14:40:44.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [andresgc_26: Set the time to 1000]
+[17Mar2025 14:44:16.325] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[17Mar2025 14:44:16.325] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[17Mar2025 14:46:53.201] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[17Mar2025 14:46:53.202] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[17Mar2025 14:46:53.206] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[17Mar2025 14:46:53.216] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot removed now.
+[17Mar2025 14:46:53.218] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: aiotbotania:recipe_terrasteel_aiot_tipped removed now.
+[17Mar2025 14:46:53.222] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[17Mar2025 14:46:53.223] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: carloselpillo[/127.181.160.16:34469] logged in with entity id 24506 at (-4092.464681640627, 63.0, -2655.994458434788)
+[17Mar2025 14:46:53.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo joined the game
+[17Mar2025 14:46:53.331] [Server thread/INFO] [Jade/]: Syncing config to carloselpillo (b74870d3-ce28-3687-912b-a14b5b99787c)
+[17Mar2025 14:47:32.027] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[17Mar2025 14:47:32.027] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[17Mar2025 14:48:07.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.8207405084911598
+[17Mar2025 14:48:07.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.8207405084911598
+[17Mar2025 14:48:08.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.8101789235926495
+[17Mar2025 14:48:12.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.6130680589975726
+[17Mar2025 14:48:12.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.2886158652625629
+[17Mar2025 14:48:12.951] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.373769891543646
+[17Mar2025 14:48:21.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.6369362802198503
+[17Mar2025 14:48:21.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.6847885388789093
+[17Mar2025 14:48:21.861] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.7326414486215808
+[17Mar2025 14:48:21.861] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.7326414486215808
+[17Mar2025 14:48:21.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.7910764700241089
+[17Mar2025 14:48:21.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.7910764700241089
+[17Mar2025 14:48:22.045] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.34883112218858514
+[17Mar2025 14:48:22.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.3189929911935618
+[17Mar2025 14:48:23.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.4265366597616847
+[17Mar2025 14:48:23.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.4265366597616847
+[17Mar2025 14:48:30.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.521578862746992
+[17Mar2025 14:48:34.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.33936650802092405
+[17Mar2025 14:48:36.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.48808480916798286
+[17Mar2025 14:48:56.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the weather to clear]
+[17Mar2025 14:49:00.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.8284972630587711
+[17Mar2025 14:49:01.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.4406580429484931
+[17Mar2025 14:49:15.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.29695012157551265
+[17Mar2025 14:49:17.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.8104372433892041
+[17Mar2025 14:49:18.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.4315826890878626
+[17Mar2025 14:49:23.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.38721944665295244
+[17Mar2025 14:49:24.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.6686274523927651
+[17Mar2025 14:50:05.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.6725445841195463
+[17Mar2025 14:50:07.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.4187066907508238
+[17Mar2025 14:50:09.508] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.7630988737111476
+[17Mar2025 14:50:10.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.7928397937191335
+[17Mar2025 14:50:11.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.7818826536011246
+[17Mar2025 14:50:12.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.7368069145557805
+[17Mar2025 14:50:13.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.7685957892385256
+[17Mar2025 14:50:15.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.4585553823246714
+[17Mar2025 14:50:16.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.7781360984428222
+[17Mar2025 14:50:47.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.7572879701179217
+[17Mar2025 14:50:48.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.45277891798894365
+[17Mar2025 14:50:49.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.8098405893687918
+[17Mar2025 14:50:50.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.8223044755819242
+[17Mar2025 14:50:51.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.5619690151155626
+[17Mar2025 14:50:52.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.3882678582859428
+[17Mar2025 14:50:55.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.35570111821334977
+[17Mar2025 14:51:33.726] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[17Mar2025 14:51:33.727] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[17Mar2025 14:51:37.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carloselpillo) moved wrongly! 0.45574845174327133
+[17Mar2025 14:51:47.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
