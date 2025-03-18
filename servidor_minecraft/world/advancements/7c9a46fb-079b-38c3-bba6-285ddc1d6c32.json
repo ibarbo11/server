@@ -1751,5 +1751,11 @@
     },
     "done": true
   },
+  "refinedstorage:connecting": {
+    "criteria": {
+      "cable_in_inventory": "2025-03-18 20:39:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

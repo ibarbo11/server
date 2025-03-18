@@ -2963,3 +2963,7 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [18Mar2025 20:34:04.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set own game mode to Survival Mode]
 [18Mar2025 20:34:33.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set own game mode to Spectator Mode]
 [18Mar2025 20:34:56.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set own game mode to Survival Mode]
+[18Mar2025 20:38:00.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[18Mar2025 20:39:57.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Connecting]
+[18Mar2025 20:40:16.350] [Server thread/INFO] [ModernFix/]: Made Refined Storage shape cache map thread-safe
+[18Mar2025 20:43:19.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Refined Storage]
