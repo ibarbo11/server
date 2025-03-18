@@ -2975,3 +2975,5 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [18Mar2025 21:13:56.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A<--[HERE]
 [18Mar2025 21:15:07.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 13000]
 [18Mar2025 21:15:09.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[18Mar2025 21:21:49.294] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 lost connection: Disconnected
+[18Mar2025 21:21:49.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 left the game
