@@ -2963,3 +2963,22 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [18Mar2025 14:52:41.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo fell from a high place
 [18Mar2025 14:52:41.587] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
 [18Mar2025 14:53:05.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[18Mar2025 14:57:05.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has made the advancement [Fishy Business]
+[18Mar2025 15:03:33.065] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Reverend Natasha'/11087, l='ServerLevel[world]', x=432.37, y=105.00, z=-1328.42] died: Reverend Natasha was slain by carloselpillo
+[18Mar2025 15:03:33.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo has reached the goal [Flawless Crystals]
+[18Mar2025 15:04:17.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[18Mar2025 15:04:22.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joselete123> eu q mi
+[18Mar2025 15:05:17.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Set the time to 1000]
+[18Mar2025 15:05:20.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[18Mar2025 15:07:17.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo was eviscerated by joselete123's vexes
+[18Mar2025 15:07:17.911] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[18Mar2025 15:08:53.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 was slain by carloselpillo
+[18Mar2025 15:08:53.945] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[18Mar2025 15:14:36.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[18Mar2025 15:15:01.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 was slain by carloselpillo
+[18Mar2025 15:15:01.437] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[18Mar2025 15:16:46.281] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carloselpillo lost connection: Disconnected
+[18Mar2025 15:16:46.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo left the game
+[18Mar2025 15:19:11.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the weather to clear]
+[18Mar2025 15:19:14.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[18Mar2025 15:27:00.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has completed the challenge [What a Nugget, Once Again!]
