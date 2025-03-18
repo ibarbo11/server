@@ -2953,3 +2953,13 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [18Mar2025 20:08:12.229] [Server thread/INFO] [Jade/]: Syncing config to joselete123 (7c9a46fb-079b-38c3-bba6-285ddc1d6c32)
 [18Mar2025 20:08:18.634] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8050ms or 161 ticks behind
 [18Mar2025 20:22:06.220] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4046, y=55, z=-2594} BlockPos{x=-4048, y=55, z=-2592}
+[18Mar2025 20:28:37.349] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Helena the ... Something'/3788, l='ServerLevel[world]', x=-4040.30, y=70.00, z=-2559.50] died: Helena the ... Something was slain by joselete123
+[18Mar2025 20:30:49.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set own game mode to Spectator Mode]
+[18Mar2025 20:31:04.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set own game mode to Survival Mode]
+[18Mar2025 20:31:41.947] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4035, y=69, z=-2586} BlockPos{x=-4035, y=70, z=-2584}
+[18Mar2025 20:32:52.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 fell from a high place
+[18Mar2025 20:32:52.695] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[18Mar2025 20:33:16.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set own game mode to Spectator Mode]
+[18Mar2025 20:34:04.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set own game mode to Survival Mode]
+[18Mar2025 20:34:33.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set own game mode to Spectator Mode]
+[18Mar2025 20:34:56.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set own game mode to Survival Mode]
