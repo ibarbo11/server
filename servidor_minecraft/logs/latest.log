@@ -2956,3 +2956,10 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [18Mar2025 14:44:37.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo joined the game
 [18Mar2025 14:44:37.796] [Server thread/INFO] [Jade/]: Syncing config to carloselpillo (b74870d3-ce28-3687-912b-a14b5b99787c)
 [18Mar2025 14:45:56.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[18Mar2025 14:49:51.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 fell from a high place
+[18Mar2025 14:49:51.199] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[18Mar2025 14:51:20.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
+[18Mar2025 14:52:39.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
+[18Mar2025 14:52:41.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carloselpillo fell from a high place
+[18Mar2025 14:52:41.587] [Server thread/INFO] [tombstone/]: The player carloselpillo has successfully been saved
+[18Mar2025 14:53:05.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carloselpillo: Teleported carloselpillo to joselete123]
