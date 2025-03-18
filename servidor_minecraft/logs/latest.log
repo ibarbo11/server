@@ -2988,3 +2988,41 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [18Mar2025 15:54:49.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 13000]
 [18Mar2025 15:56:17.170] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [18Mar2025 15:56:17.171] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[18Mar2025 16:01:56.818] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[18Mar2025 16:01:56.818] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[18Mar2025 16:03:38.256] [pool-9-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mountain_alpine], ResourceKey[minecraft:worldgen/structure / ctov:small/village_savanna_na], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_swamp_fortified], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mesa_fortified], ResourceKey[minecraft:worldgen/structure / ctov:large/village_plains_fortified], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mushroom]] from pos BlockPos{x=-2379, y=87, z=-1819}
+[18Mar2025 16:03:42.642] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4077ms or 81 ticks behind
+[18Mar2025 16:07:08.429] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joselete123 lost connection: Disconnected
+[18Mar2025 16:07:08.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 left the game
+[18Mar2025 16:07:15.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[18Mar2025 16:07:15.381] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[18Mar2025 16:07:15.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Mar2025 16:07:15.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Mar2025 16:07:15.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Mar2025 16:07:15.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Mar2025 16:07:15.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:mining
+[18Mar2025 16:07:15.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Mar2025 16:07:15.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_beyond
+[18Mar2025 16:07:15.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[18Mar2025 16:07:15.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/bloodmagic:dungeon
+[18Mar2025 16:07:15.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[18Mar2025 16:07:15.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[18Mar2025 16:07:15.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_other
+[18Mar2025 16:07:15.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Mar2025 16:07:15.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[18Mar2025 16:07:15.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Mar2025 16:07:15.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[18Mar2025 16:07:15.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Mar2025 16:07:15.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_beyond): All chunks are saved
+[18Mar2025 16:07:15.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[18Mar2025 16:07:15.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[18Mar2025 16:07:15.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[18Mar2025 16:07:15.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[18Mar2025 16:07:15.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_other): All chunks are saved
+[18Mar2025 16:07:15.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Mar2025 16:07:15.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[18Mar2025 16:07:15.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18Mar2025 16:07:15.797] [Server thread/INFO] [Framework/]: Unloading server configs...
+[18Mar2025 16:07:15.800] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[18Mar2025 16:07:15.804] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[18Mar2025 16:07:15.968] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
