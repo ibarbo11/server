@@ -2985,3 +2985,6 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [18Mar2025 15:31:24.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
 [18Mar2025 15:37:11.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 fell from a high place
 [18Mar2025 15:37:11.581] [Server thread/INFO] [tombstone/]: The player joselete123 has successfully been saved
+[18Mar2025 15:54:49.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 13000]
+[18Mar2025 15:56:17.170] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[18Mar2025 15:56:17.171] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
