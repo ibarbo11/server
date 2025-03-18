@@ -1751,6 +1751,12 @@
     },
     "done": true
   },
+  "refinedstorage:storing_externally": {
+    "criteria": {
+      "external_storage_in_inventory": "2025-03-18 21:11:24 +0000"
+    },
+    "done": true
+  },
   "refinedstorage:connecting": {
     "criteria": {
       "cable_in_inventory": "2025-03-18 20:39:57 +0000"

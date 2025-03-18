@@ -2970,3 +2970,8 @@ com.google.gson.JsonParseException: Unknown recipe condition: supplementaries:fl
 [18Mar2025 20:47:56.467] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
 [18Mar2025 20:53:20.887] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/11325, l='ServerLevel[world]', x=-468.43, y=-20.00, z=-268.26] died: Toxic Slime was killed
 [18Mar2025 21:05:39.254] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[18Mar2025 21:11:24.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joselete123 has made the advancement [Storing externally]
+[18Mar2025 21:13:56.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18Mar2025 21:13:56.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A<--[HERE]
+[18Mar2025 21:15:07.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 13000]
+[18Mar2025 21:15:09.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [joselete123: Set the time to 1000]
