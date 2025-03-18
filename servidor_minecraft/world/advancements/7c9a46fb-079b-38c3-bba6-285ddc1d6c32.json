@@ -1744,11 +1744,11 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "additionaladditions:obtain_chicken_nugget": {
     "criteria": {
-      "requirement": "2025-03-18 15:24:11 +0000"
+      "obtain": "2025-03-18 15:27:00 +0000"
     },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
